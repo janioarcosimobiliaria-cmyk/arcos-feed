@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListingDataFeed xmlns="http://www.vivareal.com/schemas/1.0/VRSync"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.vivareal.com/schemas/1.0/VRSync http://xml.vivareal.com/vrsync.xsd">
+  <Header>
+    <Provider>Arcos Imobiliária</Provider>
+    <Email>contato@arcosimobiliaria.com.br</Email>
+    <ContactName>Jânio</ContactName>
+    <PublishDate>2026-05-21T15:00:00</PublishDate>
+    <Telephone>(79) 3214-5400</Telephone>
+  </Header>
+  <Listings>
+    <Listing>
+      <ListingID>ARCOS-TESTE-001</ListingID>
+      <Title>Apartamento 3 quartos - Jardins, Aracaju</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://arcosimobiliaria.com.br/imovel/apartamento-jardins-teste/</DetailViewUrl>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description>Apartamento espaçoso no bairro Jardins, Aracaju/SE.</Description>
+        <ListPrice currency="BRL">450000</ListPrice>
+        <LivingArea unit="square metres">85</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>2</Bathrooms>
+        <Suites>1</Suites>
+        <Garage type="Parking Space">1</Garage>
+        <Features>
+          <Feature>Elevator</Feature>
+          <Feature>Pool</Feature>
+          <Feature>Gym</Feature>
+        </Features>
+      </Details>
+      <Location displayAddress="Neighborhood">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SE">Sergipe</State>
+        <City>Aracaju</City>
+        <Neighborhood>Jardins</Neighborhood>
+        <PostalCode>49025-010</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Arcos Imobiliária</Name>
+        <Email>contato@arcosimobiliaria.com.br</Email>
+        <Website>https://arcosimobiliaria.com.br</Website>
+        <Telephone>(79) 3214-5400</Telephone>
+      </ContactInfo>
+    </Listing>
+  </Listings>
+</ListingDataFeed>
