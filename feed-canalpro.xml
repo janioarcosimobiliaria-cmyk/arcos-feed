@@ -16,6 +16,9 @@
       <TransactionType>For Sale</TransactionType>
       <PublicationType>STANDARD</PublicationType>
       <DetailViewUrl>https://arcosimobiliaria.com.br/imovel/apartamento-jardins-teste/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="Fachada" primary="true">https://arcosimobiliaria.com.br/wp-content/uploads/2024/01/logo-arcos.jpg</Item>
+      </Media>
       <Details>
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Apartment</PropertyType>
