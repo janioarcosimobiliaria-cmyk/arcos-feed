@@ -4,8 +4,2302 @@
     <Provider>Arcos Imobiliária</Provider>
     <Email>contato@arcosimobiliaria.com.br</Email>
     <ContactName>Jânio</ContactName>
-    <PublishDate>2026-05-28T13:34:36</PublishDate>
+    <PublishDate>2026-05-29T11:58:58</PublishDate>
     <Telephone>(79) 3214-5400</Telephone>
   </Header>
-  <Listings/>
+  <Listings>
+    <Listing>
+      <ListingID>0232</ListingID>
+      <Title>Casa no Novo Paraíso</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://arcosimobiliaria.com.br/imovel/casa-no-novo-paraiso-0232/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01" primary="true">https://arcosimobiliaria.com.br/wp-content/uploads/2023/09/65026bc90d65c_whatsapp-image-2023-09-13-at-23-02-26.jpeg</Item>
+        <Item medium="image" caption="img02">https://arcosimobiliaria.com.br/wp-content/uploads/2023/09/65026bc78328c_whatsapp-image-2023-09-13-at-23-02-26-24.jpeg</Item>
+        <Item medium="image" caption="img03">https://arcosimobiliaria.com.br/wp-content/uploads/2023/09/65026bc6a0b06_whatsapp-image-2023-09-13-at-23-02-26-23.jpeg</Item>
+        <Item medium="image" caption="img04">https://arcosimobiliaria.com.br/wp-content/uploads/2023/09/65026bc634fd3_whatsapp-image-2023-09-13-at-23-02-26-22.jpeg</Item>
+        <Item medium="image" caption="img05">https://arcosimobiliaria.com.br/wp-content/uploads/2023/09/65026bc5ab847_whatsapp-image-2023-09-13-at-23-02-26-21.jpeg</Item>
+        <Item medium="image" caption="img06">https://arcosimobiliaria.com.br/wp-content/uploads/2023/09/65026bc4eb5e7_whatsapp-image-2023-09-13-at-23-02-26-20.jpeg</Item>
+        <Item medium="image" caption="img07">https://arcosimobiliaria.com.br/wp-content/uploads/2023/09/65026bc499c17_whatsapp-image-2023-09-13-at-23-02-26-19.jpeg</Item>
+        <Item medium="image" caption="img08">https://arcosimobiliaria.com.br/wp-content/uploads/2023/09/65026bc43dd2b_whatsapp-image-2023-09-13-at-23-02-26-18.jpeg</Item>
+        <Item medium="image" caption="img09">https://arcosimobiliaria.com.br/wp-content/uploads/2023/09/65026bc3dbed1_whatsapp-image-2023-09-13-at-23-02-26-17.jpeg</Item>
+        <Item medium="image" caption="img10">https://arcosimobiliaria.com.br/wp-content/uploads/2023/09/65026bc1b9405_whatsapp-image-2023-09-13-at-23-02-26-16.jpeg</Item>
+        <Item medium="image" caption="img11">https://arcosimobiliaria.com.br/wp-content/uploads/2023/09/65026bc1552a0_whatsapp-image-2023-09-13-at-23-02-26-15.jpeg</Item>
+        <Item medium="image" caption="img12">https://arcosimobiliaria.com.br/wp-content/uploads/2023/09/65026bc09653d_whatsapp-image-2023-09-13-at-23-02-26-14.jpeg</Item>
+        <Item medium="image" caption="img13">https://arcosimobiliaria.com.br/wp-content/uploads/2023/09/65026bbfcd9af_whatsapp-image-2023-09-13-at-23-02-26-13.jpeg</Item>
+        <Item medium="image" caption="img14">https://arcosimobiliaria.com.br/wp-content/uploads/2023/09/65026bbf2a410_whatsapp-image-2023-09-13-at-23-02-26-12.jpeg</Item>
+        <Item medium="image" caption="img15">https://arcosimobiliaria.com.br/wp-content/uploads/2023/09/65026bbebbee6_whatsapp-image-2023-09-13-at-23-02-26-11.jpeg</Item>
+        <Item medium="image" caption="img16">https://arcosimobiliaria.com.br/wp-content/uploads/2023/09/65026bbd7ae6f_whatsapp-image-2023-09-13-at-23-02-26-10.jpeg</Item>
+        <Item medium="image" caption="img17">https://arcosimobiliaria.com.br/wp-content/uploads/2023/09/65026bbd288c8_whatsapp-image-2023-09-13-at-23-02-26-9.jpeg</Item>
+        <Item medium="image" caption="img18">https://arcosimobiliaria.com.br/wp-content/uploads/2023/09/65026bbc1e633_whatsapp-image-2023-09-13-at-23-02-26-8.jpeg</Item>
+        <Item medium="image" caption="img19">https://arcosimobiliaria.com.br/wp-content/uploads/2023/09/65026bbb10e7a_whatsapp-image-2023-09-13-at-23-02-26-7.jpeg</Item>
+        <Item medium="image" caption="img20">https://arcosimobiliaria.com.br/wp-content/uploads/2023/09/65026bba04831_whatsapp-image-2023-09-13-at-23-02-26-6.jpeg</Item>
+        <Item medium="image" caption="img21">https://arcosimobiliaria.com.br/wp-content/uploads/2023/09/65026bb8ae1b1_whatsapp-image-2023-09-13-at-23-02-26-5.jpeg</Item>
+        <Item medium="image" caption="img22">https://arcosimobiliaria.com.br/wp-content/uploads/2023/09/65026bb6a73d3_whatsapp-image-2023-09-13-at-23-02-26-4.jpeg</Item>
+        <Item medium="image" caption="img23">https://arcosimobiliaria.com.br/wp-content/uploads/2023/09/65026bb4e5bb1_whatsapp-image-2023-09-13-at-23-02-26-3.jpeg</Item>
+        <Item medium="image" caption="img24">https://arcosimobiliaria.com.br/wp-content/uploads/2023/09/65026bb3ab1cf_whatsapp-image-2023-09-13-at-23-02-26-2.jpeg</Item>
+        <Item medium="image" caption="img25">https://arcosimobiliaria.com.br/wp-content/uploads/2023/09/65026bb33ceec_whatsapp-image-2023-09-13-at-23-02-26-1.jpeg</Item>
+        <Item medium="image" caption="img26">https://arcosimobiliaria.com.br/wp-content/uploads/2023/09/65026bacba244_WhatsAppImage2023-09-13at23.02.266.jpeg</Item>
+        <Item medium="image" caption="img27">https://arcosimobiliaria.com.br/wp-content/uploads/2023/09/65026b9167a46_WhatsAppImage2023-09-13at23.02.26.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description>Localizado no Bairro Novo Paraíso, numa rua bem movimentada, excelente para implantação de comércio. Possui 175 m² de área total e construída, 3 quartos, sala ampla, cozinha, banheiro social, banheiro de serviço e 1 suíte em andar superior. Posição Leste. 1 Vaga de garagem. &lt;br&gt;</Description>
+        <ListPrice currency="BRL">350000</ListPrice>
+        <LivingArea unit="square metres">175.0</LivingArea>
+        <YearlyTax currency="BRL">1430</YearlyTax>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>3</Bathrooms>
+        <Suites>1</Suites>
+        <Garage type="Parking Space">1</Garage>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SE">Sergipe</State>
+        <City>Aracaju</City>
+        <Neighborhood>Centro</Neighborhood>
+        <Address>Av. Rio Grande Do Sul - Novo Paraíso, Aracaju - SE, 49075-510</Address>
+        <PostalCode>49075-510</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Arcos Imobiliária</Name>
+        <Email>contato@arcosimobiliaria.com.br</Email>
+        <Website>https://arcosimobiliaria.com.br</Website>
+        <Telephone>(79) 3214-5400</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>0259</ListingID>
+      <Title>Casa na 13 de Julho</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://arcosimobiliaria.com.br/imovel/casa-na-13-de-julho-0259/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01" primary="true">https://arcosimobiliaria.com.br/wp-content/uploads/2023/11/6557f1e9eef6e_whatsapp-image-2023-11-17-at-20-04-12.jpeg</Item>
+        <Item medium="image" caption="img02">https://arcosimobiliaria.com.br/wp-content/uploads/2023/11/6557f1e9adba1_whatsapp-image-2023-11-17-at-20-04-12-16.jpeg</Item>
+        <Item medium="image" caption="img03">https://arcosimobiliaria.com.br/wp-content/uploads/2023/11/6557f1e948279_whatsapp-image-2023-11-17-at-20-04-12-15.jpeg</Item>
+        <Item medium="image" caption="img04">https://arcosimobiliaria.com.br/wp-content/uploads/2023/11/6557f1e91578d_whatsapp-image-2023-11-17-at-20-04-12-14.jpeg</Item>
+        <Item medium="image" caption="img05">https://arcosimobiliaria.com.br/wp-content/uploads/2023/11/6557f1e8b6451_whatsapp-image-2023-11-17-at-20-04-12-13.jpeg</Item>
+        <Item medium="image" caption="img06">https://arcosimobiliaria.com.br/wp-content/uploads/2023/11/6557f1e881c45_whatsapp-image-2023-11-17-at-20-04-12-12.jpeg</Item>
+        <Item medium="image" caption="img07">https://arcosimobiliaria.com.br/wp-content/uploads/2023/11/6557f1e843191_whatsapp-image-2023-11-17-at-20-04-12-11.jpeg</Item>
+        <Item medium="image" caption="img08">https://arcosimobiliaria.com.br/wp-content/uploads/2023/11/6557f1e78be30_whatsapp-image-2023-11-17-at-20-04-12-10.jpeg</Item>
+        <Item medium="image" caption="img09">https://arcosimobiliaria.com.br/wp-content/uploads/2023/11/6557f1e756a27_whatsapp-image-2023-11-17-at-20-04-12-9.jpeg</Item>
+        <Item medium="image" caption="img10">https://arcosimobiliaria.com.br/wp-content/uploads/2023/11/6557f1e70faab_whatsapp-image-2023-11-17-at-20-04-12-8.jpeg</Item>
+        <Item medium="image" caption="img11">https://arcosimobiliaria.com.br/wp-content/uploads/2023/11/6557f1e6a16de_whatsapp-image-2023-11-17-at-20-04-12-7.jpeg</Item>
+        <Item medium="image" caption="img12">https://arcosimobiliaria.com.br/wp-content/uploads/2023/11/6557f1e64d48c_whatsapp-image-2023-11-17-at-20-04-12-6.jpeg</Item>
+        <Item medium="image" caption="img13">https://arcosimobiliaria.com.br/wp-content/uploads/2023/11/6557f1e60db0c_whatsapp-image-2023-11-17-at-20-04-12-5.jpeg</Item>
+        <Item medium="image" caption="img14">https://arcosimobiliaria.com.br/wp-content/uploads/2023/11/6557f1e5a6fe1_whatsapp-image-2023-11-17-at-20-04-12-4.jpeg</Item>
+        <Item medium="image" caption="img15">https://arcosimobiliaria.com.br/wp-content/uploads/2023/11/6557f1e54aceb_whatsapp-image-2023-11-17-at-20-04-12-3.jpeg</Item>
+        <Item medium="image" caption="img16">https://arcosimobiliaria.com.br/wp-content/uploads/2023/11/6557f1e4f3fa9_whatsapp-image-2023-11-17-at-20-04-12-2.jpeg</Item>
+        <Item medium="image" caption="img17">https://arcosimobiliaria.com.br/wp-content/uploads/2023/11/6557f1e43a008_whatsapp-image-2023-11-17-at-20-04-12-1.jpeg</Item>
+        <Item medium="image" caption="img18">https://arcosimobiliaria.com.br/wp-content/uploads/2023/11/6557f275bc0f5_WhatsAppImage2023-11-17at20.04.12.jpeg</Item>
+        <Item medium="image" caption="img19">https://arcosimobiliaria.com.br/wp-content/uploads/2023/11/6557f25c7c70e_WhatsAppImage2023-11-17at20.04.124.jpeg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description>Localizada na Rua Campo do Brito, próximo à Igreja São José. Possui 270,53 m² de área construída, distribuídos em 2 pavimentos. Possui 4 quartos, sendo 2 suítes, sala, 2 varandas, 2 banheiros sociais, lavabo, cozinha, área de serviço, dependência completa e área gourmet. Posição Norte. 2 Vagas de garagem. &lt;br&gt;</Description>
+        <ListPrice currency="BRL">530000</ListPrice>
+        <LivingArea unit="square metres">270.53</LivingArea>
+        <YearlyTax currency="BRL">2674</YearlyTax>
+        <Bedrooms>4</Bedrooms>
+        <Bathrooms>6</Bathrooms>
+        <Suites>2</Suites>
+        <Garage type="Parking Space">2</Garage>
+        <Features>
+          <Feature>Laundry</Feature>
+          <Feature>Maid's Quarters</Feature>
+        </Features>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SE">Sergipe</State>
+        <City>Aracaju</City>
+        <Neighborhood>Centro</Neighborhood>
+        <Address>R. Campo do Brito - Treze de Julho</Address>
+        <PostalCode>49010-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Arcos Imobiliária</Name>
+        <Email>contato@arcosimobiliaria.com.br</Email>
+        <Website>https://arcosimobiliaria.com.br</Website>
+        <Telephone>(79) 3214-5400</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>0347</ListingID>
+      <Title>Edifício Futuro</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://arcosimobiliaria.com.br/imovel/edificio-futuro-0347/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01" primary="true">https://arcosimobiliaria.com.br/wp-content/uploads/2024/06/6665c7e4133d7_0028-scaled.jpg</Item>
+        <Item medium="image" caption="img02">https://arcosimobiliaria.com.br/wp-content/uploads/2024/06/6665c7e2665c4_0027-scaled.jpg</Item>
+        <Item medium="image" caption="img03">https://arcosimobiliaria.com.br/wp-content/uploads/2024/06/6665c7e113c6c_0026-scaled.jpg</Item>
+        <Item medium="image" caption="img04">https://arcosimobiliaria.com.br/wp-content/uploads/2024/06/6665c7e031dd0_0025-scaled.jpg</Item>
+        <Item medium="image" caption="img05">https://arcosimobiliaria.com.br/wp-content/uploads/2024/06/6665c7dee4a4e_0024-scaled.jpg</Item>
+        <Item medium="image" caption="img06">https://arcosimobiliaria.com.br/wp-content/uploads/2024/06/6665c7ddbcd95_0023-scaled.jpg</Item>
+        <Item medium="image" caption="img07">https://arcosimobiliaria.com.br/wp-content/uploads/2024/06/6665c7dc5554a_0022-scaled.jpg</Item>
+        <Item medium="image" caption="img08">https://arcosimobiliaria.com.br/wp-content/uploads/2024/06/6665c7db3e911_0021-scaled.jpg</Item>
+        <Item medium="image" caption="img09">https://arcosimobiliaria.com.br/wp-content/uploads/2024/06/6665c7da90105_0019-scaled.jpg</Item>
+        <Item medium="image" caption="img10">https://arcosimobiliaria.com.br/wp-content/uploads/2024/06/6665c7d968528_0018-scaled.jpg</Item>
+        <Item medium="image" caption="img11">https://arcosimobiliaria.com.br/wp-content/uploads/2024/06/6665c7d7d6e11_0017-scaled.jpg</Item>
+        <Item medium="image" caption="img12">https://arcosimobiliaria.com.br/wp-content/uploads/2024/06/6665c7d75d23e_0016-scaled.jpg</Item>
+        <Item medium="image" caption="img13">https://arcosimobiliaria.com.br/wp-content/uploads/2024/06/6665c7d650e8f_0015-scaled.jpg</Item>
+        <Item medium="image" caption="img14">https://arcosimobiliaria.com.br/wp-content/uploads/2024/06/6665c7d5b4b5f_0014-scaled.jpg</Item>
+        <Item medium="image" caption="img15">https://arcosimobiliaria.com.br/wp-content/uploads/2024/06/6665c7d512645_0013-scaled.jpg</Item>
+        <Item medium="image" caption="img16">https://arcosimobiliaria.com.br/wp-content/uploads/2024/06/6665c7d43a699_0012-scaled.jpg</Item>
+        <Item medium="image" caption="img17">https://arcosimobiliaria.com.br/wp-content/uploads/2024/06/6665c7d38b402_0011-scaled.jpg</Item>
+        <Item medium="image" caption="img18">https://arcosimobiliaria.com.br/wp-content/uploads/2024/06/6665c7d264a19_0010-scaled.jpg</Item>
+        <Item medium="image" caption="img19">https://arcosimobiliaria.com.br/wp-content/uploads/2024/06/6665c7d1a1267_0009-scaled.jpg</Item>
+        <Item medium="image" caption="img20">https://arcosimobiliaria.com.br/wp-content/uploads/2024/06/6665c7d0a402d_0008-scaled.jpg</Item>
+        <Item medium="image" caption="img21">https://arcosimobiliaria.com.br/wp-content/uploads/2024/06/6665c7cf6a38e_0007-scaled.jpg</Item>
+        <Item medium="image" caption="img22">https://arcosimobiliaria.com.br/wp-content/uploads/2024/06/6665c7ce9ea94_0006-scaled.jpg</Item>
+        <Item medium="image" caption="img23">https://arcosimobiliaria.com.br/wp-content/uploads/2024/06/6665c7ce0f8fd_0005-scaled.jpg</Item>
+        <Item medium="image" caption="img24">https://arcosimobiliaria.com.br/wp-content/uploads/2024/06/6665c7ccc3558_0004-scaled.jpg</Item>
+        <Item medium="image" caption="img25">https://arcosimobiliaria.com.br/wp-content/uploads/2024/06/6665c7cb81009_0003-scaled.jpg</Item>
+        <Item medium="image" caption="img26">https://arcosimobiliaria.com.br/wp-content/uploads/2024/06/6665c7c9c1f18_0002-scaled.jpg</Item>
+        <Item medium="image" caption="img27">https://arcosimobiliaria.com.br/wp-content/uploads/2024/06/6665c7c7bbc01_0001-scaled.jpg</Item>
+        <Item medium="image" caption="img28">https://arcosimobiliaria.com.br/wp-content/uploads/2024/06/6665c69b5467c_0002-scaled.jpg</Item>
+        <Item medium="image" caption="img29">https://arcosimobiliaria.com.br/wp-content/uploads/2024/06/6665c693588f8_0001-scaled.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description>Localizado na Rua São Cristóvão, no Centro de Aracaju, pertinho do calçadão. Possui  51,5m², 2 quartos, um deles com duas entradas, sala ampla, varanda, que pode ser usada como área de serviço, cozinha americana e banheiro social. Vista do centro comercial de Aracaju e do Rio Sergipe e Ponte da Barra dos Coqueiros. Posição Norte/Leste.</Description>
+        <ListPrice currency="BRL">147000</ListPrice>
+        <LivingArea unit="square metres">51.5</LivingArea>
+        <PropertyAdministrationFee currency="BRL">325</PropertyAdministrationFee>
+        <YearlyTax currency="BRL">613</YearlyTax>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Features>
+          <Feature>Elevator</Feature>
+          <Feature>Security Guard on Duty</Feature>
+        </Features>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SE">Sergipe</State>
+        <City>Aracaju</City>
+        <Neighborhood>Centro</Neighborhood>
+        <Address>Rua São Cristóvão, 461</Address>
+        <PostalCode>49010-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Arcos Imobiliária</Name>
+        <Email>contato@arcosimobiliaria.com.br</Email>
+        <Website>https://arcosimobiliaria.com.br</Website>
+        <Telephone>(79) 3214-5400</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>0374</ListingID>
+      <Title>Jaime Gusmão Residence - Giardino</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://arcosimobiliaria.com.br/imovel/jaime-gusmao-residence-giardino-0374/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01" primary="true">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66c3a13766dfd_ext-8.jpg</Item>
+        <Item medium="image" caption="img02">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66c3a1362bc71_ext-7.jpg</Item>
+        <Item medium="image" caption="img03">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66c3a134ad03d_ext-6.jpg</Item>
+        <Item medium="image" caption="img04">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66c3a13312b7a_ext-5.jpg</Item>
+        <Item medium="image" caption="img05">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66c3a131a3231_ext-4.jpg</Item>
+        <Item medium="image" caption="img06">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66c3a1303116f_ext-3.jpg</Item>
+        <Item medium="image" caption="img07">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66c3a12e8cd21_ext-2.jpg</Item>
+        <Item medium="image" caption="img08">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66c3a12d12ebe_ext-1.jpg</Item>
+        <Item medium="image" caption="img09">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66c3a12addaa8_0023.jpg</Item>
+        <Item medium="image" caption="img10">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66c3a12bebf53_0024.jpg</Item>
+        <Item medium="image" caption="img11">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66c3a12a61cd8_0022.jpg</Item>
+        <Item medium="image" caption="img12">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66c3a1298bb10_0021.jpg</Item>
+        <Item medium="image" caption="img13">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66c3a1290ea32_0020.jpg</Item>
+        <Item medium="image" caption="img14">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66c3a12875844_0019.jpg</Item>
+        <Item medium="image" caption="img15">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66c3a127e797f_0018.jpg</Item>
+        <Item medium="image" caption="img16">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66c3a1276c94c_0017.jpg</Item>
+        <Item medium="image" caption="img17">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66c3a126ded6e_0016.jpg</Item>
+        <Item medium="image" caption="img18">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66c3a1263c62f_0015.jpg</Item>
+        <Item medium="image" caption="img19">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66c3a125a11b7_0014.jpg</Item>
+        <Item medium="image" caption="img20">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66c3a12520a27_0013.jpg</Item>
+        <Item medium="image" caption="img21">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66c3a124a16c4_0012.jpg</Item>
+        <Item medium="image" caption="img22">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66c3a12432d27_0011.jpg</Item>
+        <Item medium="image" caption="img23">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66c3a123ba115_0010.jpg</Item>
+        <Item medium="image" caption="img24">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66c3a1234a4e0_0009.jpg</Item>
+        <Item medium="image" caption="img25">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66c3a122d79d7_0008.jpg</Item>
+        <Item medium="image" caption="img26">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66c3a1225b5e3_0007.jpg</Item>
+        <Item medium="image" caption="img27">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66c3a121e8c98_0006.jpg</Item>
+        <Item medium="image" caption="img28">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66c3a12189376_0005.jpg</Item>
+        <Item medium="image" caption="img29">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66c3a1212663f_0004.jpg</Item>
+        <Item medium="image" caption="img30">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66c3a120c55e7_0003.jpg</Item>
+        <Item medium="image" caption="img31">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66c3a11fe49b4_0002.jpg</Item>
+        <Item medium="image" caption="img32">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66c3a11f4f6ec_0001.jpg</Item>
+        <Item medium="image" caption="img33">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66c39e6ecb035_0001.jpg</Item>
+        <Item medium="image" caption="img34">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66c39e686211c_0009.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description>Localizado no Jaime Gusmão Residence, em uma excelente localização do Jardins, em plena Avenida Oviêdo Teixeira. Próximo aos shoppings, Parque da Sementeira, supermercados, bancos e demais serviços. Possui 156 m², 2 quartos, sendo 1 suíte com closet, sala, lavabo, banheiro social, ampla sacada frontal (giardino), cozinha e área de serviço. Ficam os móveis planejados. 2 Vagas de garagem. Área de lazer completa. Posição Leste/Norte.</Description>
+        <ListPrice currency="BRL">1200000</ListPrice>
+        <LivingArea unit="square metres">156.0</LivingArea>
+        <PropertyAdministrationFee currency="BRL">800</PropertyAdministrationFee>
+        <YearlyTax currency="BRL">3600</YearlyTax>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>2</Bathrooms>
+        <Suites>1</Suites>
+        <Garage type="Parking Space">2</Garage>
+        <Features>
+          <Feature>Closet</Feature>
+          <Feature>Cooling</Feature>
+          <Feature>Elevator</Feature>
+          <Feature>Furnished</Feature>
+          <Feature>Gourmet Area</Feature>
+          <Feature>Gym</Feature>
+          <Feature>Laundry</Feature>
+          <Feature>Lawn</Feature>
+          <Feature>Playground</Feature>
+          <Feature>Pool</Feature>
+          <Feature>Reception room</Feature>
+          <Feature>Sports Court</Feature>
+        </Features>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SE">Sergipe</State>
+        <City>Aracaju</City>
+        <Neighborhood>Centro</Neighborhood>
+        <Address>Av. Oviedo Teixeira, 900</Address>
+        <PostalCode>49010-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Arcos Imobiliária</Name>
+        <Email>contato@arcosimobiliaria.com.br</Email>
+        <Website>https://arcosimobiliaria.com.br</Website>
+        <Telephone>(79) 3214-5400</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>0379</ListingID>
+      <Title>Vila Jardins Mais Viver Condomínio Clube</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://arcosimobiliaria.com.br/imovel/vila-jardins-mais-viver-condominio-clube-0379/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01" primary="true">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66d0deb310bbf_0018-scaled.jpg</Item>
+        <Item medium="image" caption="img02">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66d0deb1b7ffa_0017-scaled.jpg</Item>
+        <Item medium="image" caption="img03">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66d0deb01c5d9_0016-scaled.jpg</Item>
+        <Item medium="image" caption="img04">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66d0deaed310b_0015-scaled.jpg</Item>
+        <Item medium="image" caption="img05">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66d0dead9983f_0014-scaled.jpg</Item>
+        <Item medium="image" caption="img06">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66d0deac4961a_0013-scaled.jpg</Item>
+        <Item medium="image" caption="img07">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66d0deaaebeb1_0012-scaled.jpg</Item>
+        <Item medium="image" caption="img08">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66d0dea9a3fd2_0011-scaled.jpg</Item>
+        <Item medium="image" caption="img09">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66d0dea8728c9_0010-scaled.jpg</Item>
+        <Item medium="image" caption="img10">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66d0dea747d44_0009-scaled.jpg</Item>
+        <Item medium="image" caption="img11">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66d0dea5cc1e0_0008-scaled.jpg</Item>
+        <Item medium="image" caption="img12">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66d0dea473df9_0007-scaled.jpg</Item>
+        <Item medium="image" caption="img13">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66d0dea3177ec_0006-scaled.jpg</Item>
+        <Item medium="image" caption="img14">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66d0dea1a278f_0005-scaled.jpg</Item>
+        <Item medium="image" caption="img15">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66d0dea0a1784_0004-scaled.jpg</Item>
+        <Item medium="image" caption="img16">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66d0de9f6e594_0003-scaled.jpg</Item>
+        <Item medium="image" caption="img17">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66d0de9d9aacc_0002-scaled.jpg</Item>
+        <Item medium="image" caption="img18">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66d0de9c99327_0001-scaled.jpg</Item>
+        <Item medium="image" caption="img19">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66d0dd6ff2122_0002-scaled.jpg</Item>
+        <Item medium="image" caption="img20">https://arcosimobiliaria.com.br/wp-content/uploads/2024/08/66d0dd2e50886_0001-scaled.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description>&lt;p&gt;    Apartamento localizado no Vila Jardins Mais Viver Condomínio Clube, numa boa localização do São Brás, em Nossa Senhora do Socorro. Possui 67 m², 2 quartos, banheiro social, sala, cozinha e área de serviço. 1 Vaga de garagem. Posição Norte/Oeste. Área de lazer no condomínio com salão de festas, piscina e parque infantil.    &lt;br&gt;&lt;/p&gt;</Description>
+        <ListPrice currency="BRL">135000</ListPrice>
+        <LivingArea unit="square metres">67.0</LivingArea>
+        <PropertyAdministrationFee currency="BRL">252</PropertyAdministrationFee>
+        <YearlyTax currency="BRL">429</YearlyTax>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+        <Features>
+          <Feature>Playground</Feature>
+          <Feature>Pool</Feature>
+          <Feature>Reception room</Feature>
+        </Features>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SE">Sergipe</State>
+        <City>Aracaju</City>
+        <Neighborhood>Centro</Neighborhood>
+        <Address>R. Tapuia, 70 - São Brás, Nossa Sra. do Socorro</Address>
+        <PostalCode>49010-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Arcos Imobiliária</Name>
+        <Email>contato@arcosimobiliaria.com.br</Email>
+        <Website>https://arcosimobiliaria.com.br</Website>
+        <Telephone>(79) 3214-5400</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>0382</ListingID>
+      <Title>Condomínio Ilhas do Caribe</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://arcosimobiliaria.com.br/imovel/condominio-ilhas-do-caribe-0382/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01" primary="true">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e2e6033257e_0017-scaled.jpg</Item>
+        <Item medium="image" caption="img02">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e2e60170aa8_0016-scaled.jpg</Item>
+        <Item medium="image" caption="img03">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e2e5ffc75e8_0015-scaled.jpg</Item>
+        <Item medium="image" caption="img04">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e2e5fe331ec_0014-scaled.jpg</Item>
+        <Item medium="image" caption="img05">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e2e5fc942dd_0013-scaled.jpg</Item>
+        <Item medium="image" caption="img06">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e2e5fb0d082_0012-scaled.jpg</Item>
+        <Item medium="image" caption="img07">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e2e5f99e74d_0011-scaled.jpg</Item>
+        <Item medium="image" caption="img08">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e2e5f800071_0010-scaled.jpg</Item>
+        <Item medium="image" caption="img09">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e2e5f6428a8_0009-scaled.jpg</Item>
+        <Item medium="image" caption="img10">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e2e5f488aec_0008-scaled.jpg</Item>
+        <Item medium="image" caption="img11">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e2e5f331558_0007-scaled.jpg</Item>
+        <Item medium="image" caption="img12">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e2e5f1e7829_0006-scaled.jpg</Item>
+        <Item medium="image" caption="img13">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e2e5f0820f2_0005-3-scaled.jpg</Item>
+        <Item medium="image" caption="img14">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e2e5ef0bc19_0005-2-scaled.jpg</Item>
+        <Item medium="image" caption="img15">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e2e5ed71fd5_0005-scaled.jpg</Item>
+        <Item medium="image" caption="img16">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e2e5eb358db_0004-2-scaled.jpg</Item>
+        <Item medium="image" caption="img17">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e2e5e976ab8_0003-4-scaled.jpg</Item>
+        <Item medium="image" caption="img18">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e2e5e7da0ae_0003-3-scaled.jpg</Item>
+        <Item medium="image" caption="img19">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e2e5e67978b_0003-2-scaled.jpg</Item>
+        <Item medium="image" caption="img20">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e2e5e51d092_0003-scaled.jpg</Item>
+        <Item medium="image" caption="img21">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e2e5e38af7e_0002-scaled.jpg</Item>
+        <Item medium="image" caption="img22">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e2e5e2215b8_001-scaled.jpg</Item>
+        <Item medium="image" caption="img23">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e2e493188d9_0002-scaled.jpg</Item>
+        <Item medium="image" caption="img24">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e2e48a93b54_001-scaled.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description>&lt;p&gt;    Apartamento à venda no Ponto novo, localizado no Condomínio Ilhas do Caribe, pertinho da Uninassau, Estácio e do Hospital Renascença, próximo a praças, alamedas comerciais, escolas, academia, e diversos outros estabelecimentos e serviços. Possui 74 m², 3 quartos, banheiro social, cozinha e área de serviço com banheiro. Ficam móveis planejados da cozinha e quarto. Área de lazer no condomínio com piscina, salão de festas, churrasqueira, parque infantil e quadra de basquete. Gás e água inclusos na taxa mensal. 1 Vaga de Garagem. Posição Sul.     &lt;br&gt;&lt;/p&gt;</Description>
+        <ListPrice currency="BRL">250000</ListPrice>
+        <LivingArea unit="square metres">74.0</LivingArea>
+        <PropertyAdministrationFee currency="BRL">930</PropertyAdministrationFee>
+        <YearlyTax currency="BRL">1212</YearlyTax>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+        <Features>
+          <Feature>BBQ</Feature>
+          <Feature>Furnished</Feature>
+          <Feature>Gourmet Area</Feature>
+          <Feature>Playground</Feature>
+          <Feature>Pool</Feature>
+          <Feature>Reception room</Feature>
+          <Feature>Sports Court</Feature>
+        </Features>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SE">Sergipe</State>
+        <City>Aracaju</City>
+        <Neighborhood>Centro</Neighborhood>
+        <Address>Av. Gonçalo Rolemberg Leite, 2319</Address>
+        <PostalCode>49010-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Arcos Imobiliária</Name>
+        <Email>contato@arcosimobiliaria.com.br</Email>
+        <Website>https://arcosimobiliaria.com.br</Website>
+        <Telephone>(79) 3214-5400</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>0386</ListingID>
+      <Title>Condomínio Camurupim</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://arcosimobiliaria.com.br/imovel/condominio-camurupim-0386/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01" primary="true">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e311223281e_0013-scaled.jpg</Item>
+        <Item medium="image" caption="img02">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e3112094e94_0012-scaled.jpg</Item>
+        <Item medium="image" caption="img03">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e3111f0dbd2_0011-scaled.jpg</Item>
+        <Item medium="image" caption="img04">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e3111d987bc_0010-scaled.jpg</Item>
+        <Item medium="image" caption="img05">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e3111c39fc6_009-scaled.jpg</Item>
+        <Item medium="image" caption="img06">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e3111acc075_008-2-scaled.jpg</Item>
+        <Item medium="image" caption="img07">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e311198a3e0_008-1-scaled.jpg</Item>
+        <Item medium="image" caption="img08">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e311185451e_007-12-scaled.jpg</Item>
+        <Item medium="image" caption="img09">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e31116f3e5d_007-11-scaled.jpg</Item>
+        <Item medium="image" caption="img10">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e31115bdaaa_007-10-scaled.jpg</Item>
+        <Item medium="image" caption="img11">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e31114a927c_007-9-scaled.jpg</Item>
+        <Item medium="image" caption="img12">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e311135717e_007-8-scaled.jpg</Item>
+        <Item medium="image" caption="img13">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e311120aa9d_007-7-scaled.jpg</Item>
+        <Item medium="image" caption="img14">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e311108ecdc_007-6-scaled.jpg</Item>
+        <Item medium="image" caption="img15">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e3110f41f18_007-5-scaled.jpg</Item>
+        <Item medium="image" caption="img16">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e3110dd9373_007-4-scaled.jpg</Item>
+        <Item medium="image" caption="img17">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e3110ca1513_007-3-scaled.jpg</Item>
+        <Item medium="image" caption="img18">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e3110b48b54_007-2-scaled.jpg</Item>
+        <Item medium="image" caption="img19">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e31109ede7a_007-1-scaled.jpg</Item>
+        <Item medium="image" caption="img20">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e31108784d9_006-2-scaled.jpg</Item>
+        <Item medium="image" caption="img21">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e311072808c_006-1-scaled.jpg</Item>
+        <Item medium="image" caption="img22">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e31106097a4_005-3-scaled.jpg</Item>
+        <Item medium="image" caption="img23">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e31104a1e91_005-2-scaled.jpg</Item>
+        <Item medium="image" caption="img24">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e3110365425_005-1-scaled.jpg</Item>
+        <Item medium="image" caption="img25">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e311024135e_004-3-scaled.jpg</Item>
+        <Item medium="image" caption="img26">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e311010568d_004-2-scaled.jpg</Item>
+        <Item medium="image" caption="img27">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e310ffb2351_004-1-scaled.jpg</Item>
+        <Item medium="image" caption="img28">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e310fe6053c_003-4-scaled.jpg</Item>
+        <Item medium="image" caption="img29">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e310fd002d9_003-3-scaled.jpg</Item>
+        <Item medium="image" caption="img30">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e310fbb1a4a_003-2-scaled.jpg</Item>
+        <Item medium="image" caption="img31">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e310fabb492_003-1-scaled.jpg</Item>
+        <Item medium="image" caption="img32">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e310f6aeca7_0002-scaled.jpg</Item>
+        <Item medium="image" caption="img33">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e310f504d44_0001-scaled.jpg</Item>
+        <Item medium="image" caption="img34">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e31014c6fc7_0002-scaled.jpg</Item>
+        <Item medium="image" caption="img35">https://arcosimobiliaria.com.br/wp-content/uploads/2024/09/66e3100abf90e_0011-scaled.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description>&lt;p&gt;    Localizada no Condomínio Camurupim, numa excelente localização do Mosqueiro, em frente à praia e ao Mango Bar. Possui 311,5 m² construídos em uma área total de 1.012m², divididos em 2 pavimentos. No térreo, possui 1 suíte, banheiro social, sala ampla, cozinha, despensa, área de serviço, casa de gás, dependência de serviço completa, extensa área gourmet com churrasqueira, redário, piscina e jardins. No andar superior, possui 3 suítes. Ficam os planejados dos quartos e cozinha. 5 Vagas de garagem. Posição Sul/Leste.    &lt;br&gt;&lt;/p&gt;</Description>
+        <ListPrice currency="BRL">1600000</ListPrice>
+        <LivingArea unit="square metres">311.5</LivingArea>
+        <PropertyAdministrationFee currency="BRL">1800</PropertyAdministrationFee>
+        <Bedrooms>4</Bedrooms>
+        <Bathrooms>5</Bathrooms>
+        <Suites>4</Suites>
+        <Garage type="Parking Space">5</Garage>
+        <Features>
+          <Feature>BBQ</Feature>
+          <Feature>Closet</Feature>
+          <Feature>Furnished</Feature>
+          <Feature>Gourmet Area</Feature>
+          <Feature>Lawn</Feature>
+          <Feature>Maid's Quarters</Feature>
+          <Feature>Pool</Feature>
+          <Feature>Security Guard on Duty</Feature>
+          <Feature>Sports Court</Feature>
+        </Features>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SE">Sergipe</State>
+        <City>Aracaju</City>
+        <Neighborhood>Centro</Neighborhood>
+        <Address>Av. Inácio Barbosa, 6000</Address>
+        <PostalCode>49010-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Arcos Imobiliária</Name>
+        <Email>contato@arcosimobiliaria.com.br</Email>
+        <Website>https://arcosimobiliaria.com.br</Website>
+        <Telephone>(79) 3214-5400</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>0436</ListingID>
+      <Title>Condomínio Praias do Sul III</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://arcosimobiliaria.com.br/imovel/condominio-praias-do-sul-iii-0436/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01" primary="true">https://arcosimobiliaria.com.br/wp-content/uploads/2025/01/678fa5ab79dff_reduzidas-39-3-scaled.jpg</Item>
+        <Item medium="image" caption="img02">https://arcosimobiliaria.com.br/wp-content/uploads/2025/01/678fa5a94f152_reduzidas-39-2-scaled.jpg</Item>
+        <Item medium="image" caption="img03">https://arcosimobiliaria.com.br/wp-content/uploads/2025/01/678fa5a74e9a6_reduzidas-39-scaled.jpg</Item>
+        <Item medium="image" caption="img04">https://arcosimobiliaria.com.br/wp-content/uploads/2025/01/678fa5a5b35ab_0025-scaled.jpg</Item>
+        <Item medium="image" caption="img05">https://arcosimobiliaria.com.br/wp-content/uploads/2025/01/678fa5a3e700e_0024-scaled.jpg</Item>
+        <Item medium="image" caption="img06">https://arcosimobiliaria.com.br/wp-content/uploads/2025/01/678fa5a246697_0023-scaled.jpg</Item>
+        <Item medium="image" caption="img07">https://arcosimobiliaria.com.br/wp-content/uploads/2025/01/678fa5a0b41c5_0022-scaled.jpg</Item>
+        <Item medium="image" caption="img08">https://arcosimobiliaria.com.br/wp-content/uploads/2025/01/678fa59f040fc_0021-scaled.jpg</Item>
+        <Item medium="image" caption="img09">https://arcosimobiliaria.com.br/wp-content/uploads/2025/01/678fa59d379ce_0020-scaled.jpg</Item>
+        <Item medium="image" caption="img10">https://arcosimobiliaria.com.br/wp-content/uploads/2025/01/678fa59b67a08_0019-scaled.jpg</Item>
+        <Item medium="image" caption="img11">https://arcosimobiliaria.com.br/wp-content/uploads/2025/01/678fa5999601f_0018-scaled.jpg</Item>
+        <Item medium="image" caption="img12">https://arcosimobiliaria.com.br/wp-content/uploads/2025/01/678fa598039da_0017-scaled.jpg</Item>
+        <Item medium="image" caption="img13">https://arcosimobiliaria.com.br/wp-content/uploads/2025/01/678fa596718e3_0016-scaled.jpg</Item>
+        <Item medium="image" caption="img14">https://arcosimobiliaria.com.br/wp-content/uploads/2025/01/678fa594ca12d_0015-scaled.jpg</Item>
+        <Item medium="image" caption="img15">https://arcosimobiliaria.com.br/wp-content/uploads/2025/01/678fa5930d934_0014-scaled.jpg</Item>
+        <Item medium="image" caption="img16">https://arcosimobiliaria.com.br/wp-content/uploads/2025/01/678fa590f2182_0013-scaled.jpg</Item>
+        <Item medium="image" caption="img17">https://arcosimobiliaria.com.br/wp-content/uploads/2025/01/678fa58f32b35_0012-scaled.jpg</Item>
+        <Item medium="image" caption="img18">https://arcosimobiliaria.com.br/wp-content/uploads/2025/01/678fa58d5a230_0011-scaled.jpg</Item>
+        <Item medium="image" caption="img19">https://arcosimobiliaria.com.br/wp-content/uploads/2025/01/678fa58b6a750_0010-scaled.jpg</Item>
+        <Item medium="image" caption="img20">https://arcosimobiliaria.com.br/wp-content/uploads/2025/01/678fa58997dd0_009-scaled.jpg</Item>
+        <Item medium="image" caption="img21">https://arcosimobiliaria.com.br/wp-content/uploads/2025/01/678fa587d4b7e_008-scaled.jpg</Item>
+        <Item medium="image" caption="img22">https://arcosimobiliaria.com.br/wp-content/uploads/2025/01/678fa586374cf_007-scaled.jpg</Item>
+        <Item medium="image" caption="img23">https://arcosimobiliaria.com.br/wp-content/uploads/2025/01/678fa5847cc6e_006-scaled.jpg</Item>
+        <Item medium="image" caption="img24">https://arcosimobiliaria.com.br/wp-content/uploads/2025/01/678fa58268147_005-scaled.jpg</Item>
+        <Item medium="image" caption="img25">https://arcosimobiliaria.com.br/wp-content/uploads/2025/01/678fa5808f7ac_004-scaled.jpg</Item>
+        <Item medium="image" caption="img26">https://arcosimobiliaria.com.br/wp-content/uploads/2025/01/678fa57e70372_003-scaled.jpg</Item>
+        <Item medium="image" caption="img27">https://arcosimobiliaria.com.br/wp-content/uploads/2025/01/678fa57c071cf_0002-scaled.jpg</Item>
+        <Item medium="image" caption="img28">https://arcosimobiliaria.com.br/wp-content/uploads/2025/01/678fa579287d1_0001-scaled.jpg</Item>
+        <Item medium="image" caption="img29">https://arcosimobiliaria.com.br/wp-content/uploads/2025/01/678fa47b0d8ad_0002-scaled.jpg</Item>
+        <Item medium="image" caption="img30">https://arcosimobiliaria.com.br/wp-content/uploads/2025/01/678fa46d33173_0001-scaled.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description>&lt;p&gt;    Casa nova, localizada no Condomínio Praias do Sul III, no Mosqueiro, próximo à Villa Prime Beach Club, pertinho da praia. Possui 145 m² construídos e 300m² totais, 3 quartos, sendo 2 suítes (uma com closet), sala ampla com pé direito duplo e cozinha americana, lavabo, área gourmet com churrasqueira, área de serviço, espaço externo gramado ideal para construção de piscina e corredores externos nas laterais da casa. 2 Vagas de garagem. Posição Norte. Área de lazer no condomínio.    &lt;br&gt;&lt;/p&gt;</Description>
+        <ListPrice currency="BRL">750000</ListPrice>
+        <LivingArea unit="square metres">145.0</LivingArea>
+        <PropertyAdministrationFee currency="BRL">500</PropertyAdministrationFee>
+        <YearlyTax currency="BRL">900</YearlyTax>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>3</Bathrooms>
+        <Suites>2</Suites>
+        <Garage type="Parking Space">2</Garage>
+        <Features>
+          <Feature>Playground</Feature>
+          <Feature>Sports Court</Feature>
+        </Features>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SE">Sergipe</State>
+        <City>Aracaju</City>
+        <Neighborhood>Centro</Neighborhood>
+        <Address>Av Maria Anamira Amado de Batista Neta, 135</Address>
+        <PostalCode>49010-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Arcos Imobiliária</Name>
+        <Email>contato@arcosimobiliaria.com.br</Email>
+        <Website>https://arcosimobiliaria.com.br</Website>
+        <Telephone>(79) 3214-5400</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>0479</ListingID>
+      <Title>Haras Residence</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://arcosimobiliaria.com.br/imovel/haras-residence-0479/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01" primary="true">https://arcosimobiliaria.com.br/wp-content/uploads/2025/03/67e4226e08d82_025.jpg</Item>
+        <Item medium="image" caption="img02">https://arcosimobiliaria.com.br/wp-content/uploads/2025/03/67e4226d0a16e_024.jpg</Item>
+        <Item medium="image" caption="img03">https://arcosimobiliaria.com.br/wp-content/uploads/2025/03/67e4226ba2592_023.jpg</Item>
+        <Item medium="image" caption="img04">https://arcosimobiliaria.com.br/wp-content/uploads/2025/03/67e4226a53e38_022.jpg</Item>
+        <Item medium="image" caption="img05">https://arcosimobiliaria.com.br/wp-content/uploads/2025/03/67e42268ce201_021.jpg</Item>
+        <Item medium="image" caption="img06">https://arcosimobiliaria.com.br/wp-content/uploads/2025/03/67e4226755075_020.jpg</Item>
+        <Item medium="image" caption="img07">https://arcosimobiliaria.com.br/wp-content/uploads/2025/03/67e42265f375f_019.jpg</Item>
+        <Item medium="image" caption="img08">https://arcosimobiliaria.com.br/wp-content/uploads/2025/03/67e422645d4fa_018.jpg</Item>
+        <Item medium="image" caption="img09">https://arcosimobiliaria.com.br/wp-content/uploads/2025/03/67e422630d0b5_017.jpg</Item>
+        <Item medium="image" caption="img10">https://arcosimobiliaria.com.br/wp-content/uploads/2025/03/67e422616d72b_016.jpg</Item>
+        <Item medium="image" caption="img11">https://arcosimobiliaria.com.br/wp-content/uploads/2025/03/67e4225fe112c_015.jpg</Item>
+        <Item medium="image" caption="img12">https://arcosimobiliaria.com.br/wp-content/uploads/2025/03/67e4225e73faa_014.jpg</Item>
+        <Item medium="image" caption="img13">https://arcosimobiliaria.com.br/wp-content/uploads/2025/03/67e4225cf3e72_013.jpg</Item>
+        <Item medium="image" caption="img14">https://arcosimobiliaria.com.br/wp-content/uploads/2025/03/67e4225badea7_012.jpg</Item>
+        <Item medium="image" caption="img15">https://arcosimobiliaria.com.br/wp-content/uploads/2025/03/67e4225a4cf51_011.jpg</Item>
+        <Item medium="image" caption="img16">https://arcosimobiliaria.com.br/wp-content/uploads/2025/03/67e42258d2f9c_010.jpg</Item>
+        <Item medium="image" caption="img17">https://arcosimobiliaria.com.br/wp-content/uploads/2025/03/67e4225764e73_009.jpg</Item>
+        <Item medium="image" caption="img18">https://arcosimobiliaria.com.br/wp-content/uploads/2025/03/67e42255ce419_008.jpg</Item>
+        <Item medium="image" caption="img19">https://arcosimobiliaria.com.br/wp-content/uploads/2025/03/67e4225435e53_007-6.jpg</Item>
+        <Item medium="image" caption="img20">https://arcosimobiliaria.com.br/wp-content/uploads/2025/03/67e4225391b84_007-5.jpg</Item>
+        <Item medium="image" caption="img21">https://arcosimobiliaria.com.br/wp-content/uploads/2025/03/67e4225259d13_007-4.jpg</Item>
+        <Item medium="image" caption="img22">https://arcosimobiliaria.com.br/wp-content/uploads/2025/03/67e422512a28c_007-3.jpg</Item>
+        <Item medium="image" caption="img23">https://arcosimobiliaria.com.br/wp-content/uploads/2025/03/67e4224fec9ca_007-2.jpg</Item>
+        <Item medium="image" caption="img24">https://arcosimobiliaria.com.br/wp-content/uploads/2025/03/67e4224eb4f15_007-1.jpg</Item>
+        <Item medium="image" caption="img25">https://arcosimobiliaria.com.br/wp-content/uploads/2025/03/67e4224d79203_006.jpg</Item>
+        <Item medium="image" caption="img26">https://arcosimobiliaria.com.br/wp-content/uploads/2025/03/67e4224bee19c_005.jpg</Item>
+        <Item medium="image" caption="img27">https://arcosimobiliaria.com.br/wp-content/uploads/2025/03/67e4224a19361_004.jpg</Item>
+        <Item medium="image" caption="img28">https://arcosimobiliaria.com.br/wp-content/uploads/2025/03/67e422485966d_003.jpg</Item>
+        <Item medium="image" caption="img29">https://arcosimobiliaria.com.br/wp-content/uploads/2025/03/67e42245eae52_002.jpg</Item>
+        <Item medium="image" caption="img30">https://arcosimobiliaria.com.br/wp-content/uploads/2025/03/67e42243ad755_001.jpg</Item>
+        <Item medium="image" caption="img31">https://arcosimobiliaria.com.br/wp-content/uploads/2025/03/67e41fe8b2aae_002.jpg</Item>
+        <Item medium="image" caption="img32">https://arcosimobiliaria.com.br/wp-content/uploads/2025/03/67e41fe0a6bde_001.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Land</PropertyType>
+        <Description>&lt;p&gt;    Excelente lote de 534 m² em um dos condomínios mais completos da região. O Haras Residence oferece infraestrutura de alto padrão, contato direto com a natureza e lazer para toda a família. Conta com piscina semiolímpica com cascata, academia, salão de festas, brinquedoteca, sala de cinema, sala de jogos e três espaços gourmet. Para os amantes do esporte, há quadra poliesportiva, quadra de tênis, campo de futebol society e pista para caminhada e bicicross. O condomínio ainda oferece pista para cavalgada, baias, currais, charretes, pôneis, mini vacas e clube de pesca com dois piers. Além disso, possui 146.000 m² de área verde preservada, incluindo uma ponte suspensa para contemplação da Mata Atlântica.    &lt;br&gt;&lt;/p&gt;</Description>
+        <ListPrice currency="BRL">120000</ListPrice>
+        <LivingArea unit="square metres">534.0</LivingArea>
+        <PropertyAdministrationFee currency="BRL">433</PropertyAdministrationFee>
+        <YearlyTax currency="BRL">1102</YearlyTax>
+        <Features>
+          <Feature>Game room</Feature>
+          <Feature>Gourmet Area</Feature>
+          <Feature>Gym</Feature>
+          <Feature>Media Room</Feature>
+          <Feature>Playground</Feature>
+          <Feature>Pool</Feature>
+          <Feature>Reception room</Feature>
+          <Feature>Sports Court</Feature>
+        </Features>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SE">Sergipe</State>
+        <City>Aracaju</City>
+        <Neighborhood>Centro</Neighborhood>
+        <Address>Rod. Governador Mário Covas, KM 108, Sul, S/N</Address>
+        <PostalCode>49010-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Arcos Imobiliária</Name>
+        <Email>contato@arcosimobiliaria.com.br</Email>
+        <Website>https://arcosimobiliaria.com.br</Website>
+        <Telephone>(79) 3214-5400</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>0582</ListingID>
+      <Title>Casa na Aruana</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://arcosimobiliaria.com.br/imovel/casa-na-aruana-0582/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01" primary="true">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/023-1-scaled.jpg</Item>
+        <Item medium="image" caption="img02">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/022-1-scaled.jpg</Item>
+        <Item medium="image" caption="img03">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/021-1-scaled.jpg</Item>
+        <Item medium="image" caption="img04">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/020-1-scaled.jpg</Item>
+        <Item medium="image" caption="img05">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/019-1-scaled.jpg</Item>
+        <Item medium="image" caption="img06">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/018-1-scaled.jpg</Item>
+        <Item medium="image" caption="img07">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/017-1-scaled.jpg</Item>
+        <Item medium="image" caption="img08">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/016-1-scaled.jpg</Item>
+        <Item medium="image" caption="img09">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/015-1-scaled.jpg</Item>
+        <Item medium="image" caption="img10">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/014-1-scaled.jpg</Item>
+        <Item medium="image" caption="img11">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/013-1-scaled.jpg</Item>
+        <Item medium="image" caption="img12">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/012-1-scaled.jpg</Item>
+        <Item medium="image" caption="img13">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/011-1-scaled.jpg</Item>
+        <Item medium="image" caption="img14">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/010-1-scaled.jpg</Item>
+        <Item medium="image" caption="img15">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/009-1-scaled.jpg</Item>
+        <Item medium="image" caption="img16">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/008-1-scaled.jpg</Item>
+        <Item medium="image" caption="img17">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/007-2-scaled.jpg</Item>
+        <Item medium="image" caption="img18">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/006-1-scaled.jpg</Item>
+        <Item medium="image" caption="img19">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/005-1-scaled.jpg</Item>
+        <Item medium="image" caption="img20">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/004-1-scaled.jpg</Item>
+        <Item medium="image" caption="img21">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/003-1-scaled.jpg</Item>
+        <Item medium="image" caption="img22">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/002-1-scaled.jpg</Item>
+        <Item medium="image" caption="img23">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/001-4-scaled.jpg</Item>
+        <Item medium="image" caption="img24">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/001-3-scaled.jpg</Item>
+        <Item medium="image" caption="img25">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/001-2-scaled.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description>Casa à venda na Aruana, em excelente localização, próxima ao condomínio Palm Ville e a poucos minutos da praia. O imóvel possui 180m² de área construída em um terreno de 220m², com ambientes bem distribuídos: 3 quartos, sala, varanda, banheiro social, cozinha e quintal espaçoso.
+
+Conta ainda com um ponto comercial na parte frontal, com entrada independente, ideal para quem deseja investir em uso misto - moradia e renda no mesmo imóvel. São 2 vagas de garagem e posição Norte, que favorece iluminação e ventilação natural. Uma ótima oportunidade para morar e empreender em uma das regiões que mais se valoriza em Aracaju.</Description>
+        <ListPrice currency="BRL">285000</ListPrice>
+        <LivingArea unit="square metres">180.0</LivingArea>
+        <YearlyTax currency="BRL">250</YearlyTax>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">2</Garage>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SE">Sergipe</State>
+        <City>Aracaju</City>
+        <Neighborhood>Centro</Neighborhood>
+        <Address>R. Santa Paulina do Coração - Aruana, Aracaju - SE, 49000-798</Address>
+        <PostalCode>49000-798</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Arcos Imobiliária</Name>
+        <Email>contato@arcosimobiliaria.com.br</Email>
+        <Website>https://arcosimobiliaria.com.br</Website>
+        <Telephone>(79) 3214-5400</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>0604</ListingID>
+      <Title>Morada do Lago</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://arcosimobiliaria.com.br/imovel/morada-do-lago-0604/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01" primary="true">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/052-scaled.jpg</Item>
+        <Item medium="image" caption="img02">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/051-scaled.jpg</Item>
+        <Item medium="image" caption="img03">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/050-scaled.jpg</Item>
+        <Item medium="image" caption="img04">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/049-scaled.jpg</Item>
+        <Item medium="image" caption="img05">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/048-scaled.jpg</Item>
+        <Item medium="image" caption="img06">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/047.jpg</Item>
+        <Item medium="image" caption="img07">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/046-1-scaled.jpg</Item>
+        <Item medium="image" caption="img08">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/045-scaled.jpg</Item>
+        <Item medium="image" caption="img09">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/044-1-scaled.jpg</Item>
+        <Item medium="image" caption="img10">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/043-1-scaled.jpg</Item>
+        <Item medium="image" caption="img11">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/042.jpg</Item>
+        <Item medium="image" caption="img12">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/041-scaled.jpg</Item>
+        <Item medium="image" caption="img13">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/040-1-scaled.jpg</Item>
+        <Item medium="image" caption="img14">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/039-1-scaled.jpg</Item>
+        <Item medium="image" caption="img15">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/038-1-scaled.jpg</Item>
+        <Item medium="image" caption="img16">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/037-2-scaled.jpg</Item>
+        <Item medium="image" caption="img17">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/036-1-scaled.jpg</Item>
+        <Item medium="image" caption="img18">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/035-4-scaled.jpg</Item>
+        <Item medium="image" caption="img19">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/034-3-scaled.jpg</Item>
+        <Item medium="image" caption="img20">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/033-2-scaled.jpg</Item>
+        <Item medium="image" caption="img21">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/032-2-scaled.jpg</Item>
+        <Item medium="image" caption="img22">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/031-7-scaled.jpg</Item>
+        <Item medium="image" caption="img23">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/030-7-scaled.jpg</Item>
+        <Item medium="image" caption="img24">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/029-5-scaled.jpg</Item>
+        <Item medium="image" caption="img25">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/028-10-scaled.jpg</Item>
+        <Item medium="image" caption="img26">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/027-11-scaled.jpg</Item>
+        <Item medium="image" caption="img27">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/026-13-scaled.jpg</Item>
+        <Item medium="image" caption="img28">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/025-14-scaled.jpg</Item>
+        <Item medium="image" caption="img29">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/024-14-scaled.jpg</Item>
+        <Item medium="image" caption="img30">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/023-17-scaled.jpg</Item>
+        <Item medium="image" caption="img31">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/022-16-scaled.jpg</Item>
+        <Item medium="image" caption="img32">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/021-17-scaled.jpg</Item>
+        <Item medium="image" caption="img33">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/020-20-scaled.jpg</Item>
+        <Item medium="image" caption="img34">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/019-20-scaled.jpg</Item>
+        <Item medium="image" caption="img35">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/017-18-scaled.jpg</Item>
+        <Item medium="image" caption="img36">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/016-19-scaled.jpg</Item>
+        <Item medium="image" caption="img37">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/013-20-scaled.jpg</Item>
+        <Item medium="image" caption="img38">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/012-20-scaled.jpg</Item>
+        <Item medium="image" caption="img39">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/011-21-scaled.jpg</Item>
+        <Item medium="image" caption="img40">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/010-20-scaled.jpg</Item>
+        <Item medium="image" caption="img41">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/009-17-scaled.jpg</Item>
+        <Item medium="image" caption="img42">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/008-20-scaled.jpg</Item>
+        <Item medium="image" caption="img43">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/007-21-scaled.jpg</Item>
+        <Item medium="image" caption="img44">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/006-21-scaled.jpg</Item>
+        <Item medium="image" caption="img45">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/005-20-scaled.jpg</Item>
+        <Item medium="image" caption="img46">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/004-18-scaled.jpg</Item>
+        <Item medium="image" caption="img47">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/003-23-scaled.jpg</Item>
+        <Item medium="image" caption="img48">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/002-34-scaled.jpg</Item>
+        <Item medium="image" caption="img49">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/001-35-scaled.jpg</Item>
+        <Item medium="image" caption="img50">https://arcosimobiliaria.com.br/wp-content/uploads/2025/09/035-3-scaled.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description>Casa recém-construída à venda no Condomínio Morada do Lago, no Mosqueiro, a apenas 900m da praia e próximo ao Bar Faraó, em uma das áreas mais tranquilas e valorizadas da região. 
+
+O imóvel possui 155 m² de área construída em um terreno de 284 m², com ambientes modernos e bem planejados: sala ampla com pé-direito alto integrada à cozinha com bancada americana e espaço gourmet com churrasqueira, 3 quartos (sendo 1 suíte), banheiro social, dependência de serviço completa, despensa e depósito. A área externa é destaque, com jardim gramado, piscina com cascata e banheiro de apoio, 4 vagas de garagem, além de posição Norte/Leste.
+O condomínio oferece lazer completo, com piscinas adulto e infantil, deck, lago com píer, academia, salão de festas, salão de jogos, área gourmet, parque infantil, brinquedoteca, quadras de basquete e beach tennis, além de segurança e tranquilidade para toda a família.
+</Description>
+        <ListPrice currency="BRL">915000</ListPrice>
+        <LivingArea unit="square metres">155.0</LivingArea>
+        <PropertyAdministrationFee currency="BRL">500</PropertyAdministrationFee>
+        <YearlyTax currency="BRL">1600</YearlyTax>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>3</Bathrooms>
+        <Suites>1</Suites>
+        <Garage type="Parking Space">4</Garage>
+        <Features>
+          <Feature>BBQ</Feature>
+          <Feature>Game room</Feature>
+          <Feature>Gourmet Area</Feature>
+          <Feature>Gym</Feature>
+          <Feature>Kitchen</Feature>
+          <Feature>Maid's Quarters</Feature>
+          <Feature>Playground</Feature>
+          <Feature>Pool</Feature>
+          <Feature>Reception room</Feature>
+        </Features>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SE">Sergipe</State>
+        <City>Aracaju</City>
+        <Neighborhood>Centro</Neighborhood>
+        <Address>Av. Maria Anamira Amado Batalha Neta, 635 - Mosqueiro, Aracaju - SE, 49009-222</Address>
+        <PostalCode>49009-222</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Arcos Imobiliária</Name>
+        <Email>contato@arcosimobiliaria.com.br</Email>
+        <Website>https://arcosimobiliaria.com.br</Website>
+        <Telephone>(79) 3214-5400</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>0607</ListingID>
+      <Title>Casa na Coroa do Meio</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://arcosimobiliaria.com.br/imovel/casa-na-coroa-do-meio-0607/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01" primary="true">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/031-scaled.jpg</Item>
+        <Item medium="image" caption="img02">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/030-2-scaled.jpg</Item>
+        <Item medium="image" caption="img03">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/029-1-scaled.jpg</Item>
+        <Item medium="image" caption="img04">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/028-scaled.jpg</Item>
+        <Item medium="image" caption="img05">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/026-scaled.jpg</Item>
+        <Item medium="image" caption="img06">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/025-scaled.jpg</Item>
+        <Item medium="image" caption="img07">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/024-scaled.jpg</Item>
+        <Item medium="image" caption="img08">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/023-scaled.jpg</Item>
+        <Item medium="image" caption="img09">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/022-1-scaled.jpg</Item>
+        <Item medium="image" caption="img10">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/021-1-scaled.jpg</Item>
+        <Item medium="image" caption="img11">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/020-1-scaled.jpg</Item>
+        <Item medium="image" caption="img12">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/019-1-scaled.jpg</Item>
+        <Item medium="image" caption="img13">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/018-1-scaled.jpg</Item>
+        <Item medium="image" caption="img14">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/017-1-scaled.jpg</Item>
+        <Item medium="image" caption="img15">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/016-1-scaled.jpg</Item>
+        <Item medium="image" caption="img16">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/015-1-scaled.jpg</Item>
+        <Item medium="image" caption="img17">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/014-1-scaled.jpg</Item>
+        <Item medium="image" caption="img18">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/013-1-scaled.jpg</Item>
+        <Item medium="image" caption="img19">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/012-1-scaled.jpg</Item>
+        <Item medium="image" caption="img20">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/011-scaled.jpg</Item>
+        <Item medium="image" caption="img21">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/010-1-scaled.jpg</Item>
+        <Item medium="image" caption="img22">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/009-1-scaled.jpg</Item>
+        <Item medium="image" caption="img23">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/008-1-scaled.jpg</Item>
+        <Item medium="image" caption="img24">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/007-1-scaled.jpg</Item>
+        <Item medium="image" caption="img25">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/006-1-scaled.jpg</Item>
+        <Item medium="image" caption="img26">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/005-1-scaled.jpg</Item>
+        <Item medium="image" caption="img27">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/004-1-scaled.jpg</Item>
+        <Item medium="image" caption="img28">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/003-1-scaled.jpg</Item>
+        <Item medium="image" caption="img29">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/002-1-scaled.jpg</Item>
+        <Item medium="image" caption="img30">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/001-scaled.jpg</Item>
+        <Item medium="image" caption="img31">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/000-3-scaled.jpg</Item>
+        <Item medium="image" caption="img32">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/030-1-scaled.jpg</Item>
+        <Item medium="image" caption="img33">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/000-2-scaled.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description>Casa à venda na Coroa do Meio, na Rua Poeta José Salles de Campos, atrás do Clube do Banese e a poucos metros da Orla de Atalaia, em uma das regiões mais valorizadas de Aracaju. O imóvel, em condomínio fechado com apenas 3 casas, possui 253 m² distribuídos em três pavimentos, unindo conforto, exclusividade e versatilidade.
+
+No térreo, conta com hall de entrada, sala ampla em dois ambientes, cozinha funcional, banheiro social, 1 quarto e área de serviço. O segundo andar reúne uma sala íntima e duas suítes, sendo uma master com closet espaçoso e varanda privativa. O terceiro pavimento é um grande diferencial: um terraço gourmet com área coberta, lavabo, depósito e amplo espaço aberto que proporciona vista privilegiada tanto do nascer quanto do pôr do sol.
+
+Ficam no imóvel os móveis planejados da sala, cozinha, banheiros e terraço, além de 1 ar-condicionado. Dispõe de 1 vaga de garagem e posição Norte/Leste, favorecendo ambientes ventilados e iluminados naturalmente. Uma oportunidade rara para quem deseja viver em uma casa diferenciada, com localização estratégica e próxima de tudo o que a Orla oferece.
+</Description>
+        <ListPrice currency="BRL">700000</ListPrice>
+        <LivingArea unit="square metres">253.0</LivingArea>
+        <PropertyAdministrationFee currency="BRL">50</PropertyAdministrationFee>
+        <YearlyTax currency="BRL">1600</YearlyTax>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>3</Bathrooms>
+        <Suites>2</Suites>
+        <Garage type="Parking Space">1</Garage>
+        <Features>
+          <Feature>Balcony</Feature>
+          <Feature>Closet</Feature>
+          <Feature>Cooling</Feature>
+          <Feature>Exterior View</Feature>
+          <Feature>Laundry</Feature>
+        </Features>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SE">Sergipe</State>
+        <City>Aracaju</City>
+        <Neighborhood>Centro</Neighborhood>
+        <Address>Rua Poeta José Salles de Campos - Coroa do Meio, Aracaju - SE, 49035-100</Address>
+        <PostalCode>49035-100</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Arcos Imobiliária</Name>
+        <Email>contato@arcosimobiliaria.com.br</Email>
+        <Website>https://arcosimobiliaria.com.br</Website>
+        <Telephone>(79) 3214-5400</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>0612</ListingID>
+      <Title>Condomínio Parque Alameda Real</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://arcosimobiliaria.com.br/imovel/condominio-parque-alameda-real-0612/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01" primary="true">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/024-2-scaled.jpg</Item>
+        <Item medium="image" caption="img02">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/023-3-scaled.jpg</Item>
+        <Item medium="image" caption="img03">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/022-5-scaled.jpg</Item>
+        <Item medium="image" caption="img04">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/021-5-scaled.jpg</Item>
+        <Item medium="image" caption="img05">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/020-5-scaled.jpg</Item>
+        <Item medium="image" caption="img06">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/019-5-scaled.jpg</Item>
+        <Item medium="image" caption="img07">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/018-5-scaled.jpg</Item>
+        <Item medium="image" caption="img08">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/017-5-scaled.jpg</Item>
+        <Item medium="image" caption="img09">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/016-5-scaled.jpg</Item>
+        <Item medium="image" caption="img10">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/015-10-scaled.jpg</Item>
+        <Item medium="image" caption="img11">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/014-6.jpg</Item>
+        <Item medium="image" caption="img12">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/013-6.jpg</Item>
+        <Item medium="image" caption="img13">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/012-6.jpg</Item>
+        <Item medium="image" caption="img14">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/011-5.jpg</Item>
+        <Item medium="image" caption="img15">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/010-6.jpg</Item>
+        <Item medium="image" caption="img16">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/009-13.jpg</Item>
+        <Item medium="image" caption="img17">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/008-6.jpg</Item>
+        <Item medium="image" caption="img18">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/007-5.jpg</Item>
+        <Item medium="image" caption="img19">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/006-5.jpg</Item>
+        <Item medium="image" caption="img20">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/005-6.jpg</Item>
+        <Item medium="image" caption="img21">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/004-6.jpg</Item>
+        <Item medium="image" caption="img22">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/003-6.jpg</Item>
+        <Item medium="image" caption="img23">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/002-9.jpg</Item>
+        <Item medium="image" caption="img24">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/001-9-scaled.jpg</Item>
+        <Item medium="image" caption="img25">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/002-8.jpg</Item>
+        <Item medium="image" caption="img26">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/001-8-scaled.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description>Apartamento à venda no Condomínio Parque Alameda Real, localizado no bairro Marivan, com fácil acesso a supermercados, escolas, farmácias e aos principais serviços da região.
+
+O imóvel possui 56 m², com 2 quartos, sala de estar, banheiro social, cozinha e área de serviço integrada ao giardino gramado em L, ideal para quem valoriza um espaço ao ar livre privativo. A posição Leste garante excelente ventilação natural e iluminação suave ao longo do dia, tornando os ambientes mais agradáveis e frescos. Conta ainda com 1 vaga de garagem e gás incluso na taxa condominial.
+
+O condomínio oferece lazer completo com piscina, salão de festas, área gourmet, parque infantil, brinquedoteca e quadra esportiva, perfeito para quem busca conforto, praticidade e ótimo custo-benefício em Aracaju.
+</Description>
+        <ListPrice currency="BRL">200000</ListPrice>
+        <LivingArea unit="square metres">56.0</LivingArea>
+        <PropertyAdministrationFee currency="BRL">225</PropertyAdministrationFee>
+        <YearlyTax currency="BRL">125</YearlyTax>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+        <Features>
+          <Feature>BBQ</Feature>
+          <Feature>Gourmet Area</Feature>
+          <Feature>Playground</Feature>
+          <Feature>Pool</Feature>
+          <Feature>Reception room</Feature>
+        </Features>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SE">Sergipe</State>
+        <City>Aracaju</City>
+        <Neighborhood>Centro</Neighborhood>
+        <Address>Av. Jorn. Juarez Conrado Dantas, 1125 - Santa Maria, Aracaju - SE, 49039-083</Address>
+        <PostalCode>49039-083</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Arcos Imobiliária</Name>
+        <Email>contato@arcosimobiliaria.com.br</Email>
+        <Website>https://arcosimobiliaria.com.br</Website>
+        <Telephone>(79) 3214-5400</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>0614</ListingID>
+      <Title>Casa no Santa Maria</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://arcosimobiliaria.com.br/imovel/casa-no-santa-maria-0614/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01" primary="true">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/COMLOGO-17-scaled.jpg</Item>
+        <Item medium="image" caption="img02">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/COMLOGO-16-scaled.jpg</Item>
+        <Item medium="image" caption="img03">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/COMLOGO-14-scaled.jpg</Item>
+        <Item medium="image" caption="img04">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/COMLOGO-13-scaled.jpg</Item>
+        <Item medium="image" caption="img05">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/COMLOGO-12-scaled.jpg</Item>
+        <Item medium="image" caption="img06">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/COMLOGO-11-scaled.jpg</Item>
+        <Item medium="image" caption="img07">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/COMLOGO-10-scaled.jpg</Item>
+        <Item medium="image" caption="img08">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/COMLOGO-9-scaled.jpg</Item>
+        <Item medium="image" caption="img09">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/COMLOGO-8-scaled.jpg</Item>
+        <Item medium="image" caption="img10">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/COMLOGO-5-2-scaled.jpg</Item>
+        <Item medium="image" caption="img11">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/COMLOGO-5-1-scaled.jpg</Item>
+        <Item medium="image" caption="img12">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/COMLOGO-5-scaled.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description>Casa no Santa Maria, à venda no Loteamento Jardim Recreio, em frente ao Condomínio Villa da Glória e próxima ao CIRAS. A poucos minutos da Praia de Aruana, do GBarbosa HiperSul e de comércios, mercados, academias e serviços essenciais.
+O imóvel possui 100 m² de área total e 82,83 m² construídos, com 3 quartos (sendo 1 suíte), sala, varanda, cozinha e 2 vagas de garagem. Posição Norte, favorecendo a boa iluminação natural ao longo do dia.
+Trata-se de uma excelente oportunidade para quem deseja investir, reformar ou construir em uma região em constante valorização na zona sul de Aracaju.
+</Description>
+        <ListPrice currency="BRL">145000</ListPrice>
+        <LivingArea unit="square metres">100.0</LivingArea>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>2</Bathrooms>
+        <Suites>1</Suites>
+        <Garage type="Parking Space">2</Garage>
+        <Features>
+          <Feature>Balcony</Feature>
+        </Features>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SE">Sergipe</State>
+        <City>Aracaju</City>
+        <Neighborhood>Centro</Neighborhood>
+        <Address>R. Nova Esperanca Ltm Recreio, 103 - Santa Maria, Aracaju - SE, 49043-815</Address>
+        <PostalCode>49043-815</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Arcos Imobiliária</Name>
+        <Email>contato@arcosimobiliaria.com.br</Email>
+        <Website>https://arcosimobiliaria.com.br</Website>
+        <Telephone>(79) 3214-5400</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>0615</ListingID>
+      <Title>Lote no Santa Maria</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://arcosimobiliaria.com.br/imovel/lote-no-santa-maria-0615/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01" primary="true">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/COMLOGO-2-scaled.jpg</Item>
+        <Item medium="image" caption="img02">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/COMLOGO-1-scaled.jpg</Item>
+        <Item medium="image" caption="img03">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/001-10-scaled.jpg</Item>
+        <Item medium="image" caption="img04">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/000-8-scaled.jpg</Item>
+        <Item medium="image" caption="img05">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/COMLOGO-4-scaled.jpg</Item>
+        <Item medium="image" caption="img06">https://arcosimobiliaria.com.br/wp-content/uploads/2025/10/COMLOGO-3-scaled.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Land</PropertyType>
+        <Description>Lote à venda no bairro Santa Maria, no Loteamento Jardim Recreio, em frente ao Condomínio Villa da Glória e próximo ao CIRAS. A poucos minutos da Praia de Aruana, do GBarbosa HiperSul e de comércios, mercados, academias e serviços essenciais.
+
+Com 160 m² e posição solar Norte, o terreno recebe boa iluminação ao longo do dia e oferece excelente potencial construtivo para quem deseja investir ou construir com qualidade de vida. Uma oportunidade estratégica em uma região em constante valorização na zona sul de Aracaju.</Description>
+        <ListPrice currency="BRL">45000</ListPrice>
+        <LivingArea unit="square metres">160.0</LivingArea>
+        <Garage type="Parking Space">-3</Garage>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SE">Sergipe</State>
+        <City>Aracaju</City>
+        <Neighborhood>Centro</Neighborhood>
+        <Address>R. Nova Esperanca Ltm Recreio, 12 - Santa Maria, Aracaju - SE, 49043-815</Address>
+        <PostalCode>49043-815</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Arcos Imobiliária</Name>
+        <Email>contato@arcosimobiliaria.com.br</Email>
+        <Website>https://arcosimobiliaria.com.br</Website>
+        <Telephone>(79) 3214-5400</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>0626</ListingID>
+      <Title>Casa no São Conrado</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://arcosimobiliaria.com.br/imovel/casa-no-sao-conrado-0626/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01" primary="true">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/013-3.jpg</Item>
+        <Item medium="image" caption="img02">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/012-5.jpg</Item>
+        <Item medium="image" caption="img03">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/011-4.jpg</Item>
+        <Item medium="image" caption="img04">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/010-4.jpg</Item>
+        <Item medium="image" caption="img05">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/009-4.jpg</Item>
+        <Item medium="image" caption="img06">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/008-4.jpg</Item>
+        <Item medium="image" caption="img07">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/007-3.jpg</Item>
+        <Item medium="image" caption="img08">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/006-3.jpg</Item>
+        <Item medium="image" caption="img09">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/005-3.jpg</Item>
+        <Item medium="image" caption="img10">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/004-4.jpg</Item>
+        <Item medium="image" caption="img11">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/003-4.jpg</Item>
+        <Item medium="image" caption="img12">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/002-6.jpg</Item>
+        <Item medium="image" caption="img13">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/001-9.jpg</Item>
+        <Item medium="image" caption="img14">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/000-5.jpg</Item>
+        <Item medium="image" caption="img15">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/001-8.jpg</Item>
+        <Item medium="image" caption="img16">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/000-4.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description>Casa à venda no São Conrado, na Rua Josué de Carvalho Cunha, pertinho de tudo. Com 280m², o imóvel conta com 3 quartos, sala espaçosa, varanda, banheiro social, cozinha, área de serviço e 2 vagas de garagem. A posição Leste garante luz natural pela manhã e um clima agradável durante todo o dia. Ideal para quem busca um lar arejado, com fácil acesso a serviços e vias principais da cidade, como a Avenida Empresário José Carlos Silva e a Avenida Francisco José da Fonseca.</Description>
+        <ListPrice currency="BRL">240000</ListPrice>
+        <LivingArea unit="square metres">280.0</LivingArea>
+        <YearlyTax currency="BRL">150</YearlyTax>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>2</Bathrooms>
+        <Garage type="Parking Space">2</Garage>
+        <Features>
+          <Feature>Balcony</Feature>
+        </Features>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SE">Sergipe</State>
+        <City>Aracaju</City>
+        <Neighborhood>Centro</Neighborhood>
+        <Address>R. Josué de Carvalho Cunha - São Conrado Aracaju - SE, 49042-455</Address>
+        <PostalCode>49042-455</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Arcos Imobiliária</Name>
+        <Email>contato@arcosimobiliaria.com.br</Email>
+        <Website>https://arcosimobiliaria.com.br</Website>
+        <Telephone>(79) 3214-5400</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>0628</ListingID>
+      <Title>Maluí Residence (Lote)</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://arcosimobiliaria.com.br/imovel/malui-residence-lote-0628/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01" primary="true">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/EXT-25-scaled.jpg</Item>
+        <Item medium="image" caption="img02">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/EXT-24-scaled.jpg</Item>
+        <Item medium="image" caption="img03">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/EXT-23-scaled.jpg</Item>
+        <Item medium="image" caption="img04">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/EXT-22-scaled.jpg</Item>
+        <Item medium="image" caption="img05">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/EXT-21-scaled.jpg</Item>
+        <Item medium="image" caption="img06">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/EXT-20-scaled.jpg</Item>
+        <Item medium="image" caption="img07">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/EXT-19-scaled.jpg</Item>
+        <Item medium="image" caption="img08">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/EXT-16-scaled.jpg</Item>
+        <Item medium="image" caption="img09">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/EXT-15-scaled.jpg</Item>
+        <Item medium="image" caption="img10">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/EXT-14-scaled.jpg</Item>
+        <Item medium="image" caption="img11">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/EXT-13-scaled.jpg</Item>
+        <Item medium="image" caption="img12">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/EXT-12-scaled.jpg</Item>
+        <Item medium="image" caption="img13">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/EXT-11-scaled.jpg</Item>
+        <Item medium="image" caption="img14">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/EXT-10-scaled.jpg</Item>
+        <Item medium="image" caption="img15">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/EXT-9-scaled.jpg</Item>
+        <Item medium="image" caption="img16">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/EXT-8-scaled.jpg</Item>
+        <Item medium="image" caption="img17">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/EXT-7-scaled.jpg</Item>
+        <Item medium="image" caption="img18">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/EXT-6-scaled.jpg</Item>
+        <Item medium="image" caption="img19">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/EXT-5-scaled.jpg</Item>
+        <Item medium="image" caption="img20">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/EXT-4-scaled.jpg</Item>
+        <Item medium="image" caption="img21">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/EXT-3-scaled.jpg</Item>
+        <Item medium="image" caption="img22">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/EXT-2-scaled.jpg</Item>
+        <Item medium="image" caption="img23">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/EXT-1-scaled.jpg</Item>
+        <Item medium="image" caption="img24">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/003-6-scaled.jpg</Item>
+        <Item medium="image" caption="img25">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/0002-1-scaled.jpg</Item>
+        <Item medium="image" caption="img26">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/000-7.jpg</Item>
+        <Item medium="image" caption="img27">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/0002-scaled.jpg</Item>
+        <Item medium="image" caption="img28">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/000-6.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Land</PropertyType>
+        <Description>Lote à venda no Maluí Residence, condomínio de alto padrão pé na areia na Barra dos Coqueiros. São 250 m² de área total em um terreno de medidas 10x25m e com posição Norte, com ótima ventilação e conforto térmico. O Maluí se destaca pela estrutura de lazer completa, com piscinas adulto, infantil e semiolímpica, campo de futebol, quadras de tênis e poliesportiva, academia, salão de jogos, sauna, brinquedoteca, minimercado, parque infantil, bares de apoio, mirante com vista para o mar e acesso direto à praia.
+A água já está inclusa na taxa condominial. Um terreno exclusivo para quem busca conforto, sofisticação e valorização à beira-mar.
+</Description>
+        <ListPrice currency="BRL">160000</ListPrice>
+        <LivingArea unit="square metres">250.0</LivingArea>
+        <PropertyAdministrationFee currency="BRL">601</PropertyAdministrationFee>
+        <YearlyTax currency="BRL">1200</YearlyTax>
+        <Features>
+          <Feature>BBQ</Feature>
+          <Feature>Game room</Feature>
+          <Feature>Gourmet Area</Feature>
+          <Feature>Gym</Feature>
+          <Feature>Playground</Feature>
+          <Feature>Pool</Feature>
+          <Feature>Reception room</Feature>
+          <Feature>Sports Court</Feature>
+          <Feature>TV Security</Feature>
+        </Features>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SE">Sergipe</State>
+        <City>Barra dos Coqueiros</City>
+        <Neighborhood>Barra dos Coqueiros</Neighborhood>
+        <Address>Rod. Engenheiro Edilson Távora, 7300 - Olhos d'Água, Barra dos Coqueiros - SE, 49142-630</Address>
+        <PostalCode>49142-630</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Arcos Imobiliária</Name>
+        <Email>contato@arcosimobiliaria.com.br</Email>
+        <Website>https://arcosimobiliaria.com.br</Website>
+        <Telephone>(79) 3214-5400</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>0632</ListingID>
+      <Title>Alameda Verdejar Club Residence</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://arcosimobiliaria.com.br/imovel/alameda-verdejar-club-residence-0632/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01" primary="true">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/comlogo-14-2-scaled.jpg</Item>
+        <Item medium="image" caption="img02">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/comlogo-13-2-scaled.jpg</Item>
+        <Item medium="image" caption="img03">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/comlogo-12-2-scaled.jpg</Item>
+        <Item medium="image" caption="img04">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/comlogo-11-2-scaled.jpg</Item>
+        <Item medium="image" caption="img05">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/comlogo-10-2-scaled.jpg</Item>
+        <Item medium="image" caption="img06">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/comlogo-9-2-scaled.jpg</Item>
+        <Item medium="image" caption="img07">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/comlogo-8-2-scaled.jpg</Item>
+        <Item medium="image" caption="img08">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/comlogo-7-2-scaled.jpg</Item>
+        <Item medium="image" caption="img09">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/comlogo-6-2-scaled.jpg</Item>
+        <Item medium="image" caption="img10">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/comlogo-5-2-scaled.jpg</Item>
+        <Item medium="image" caption="img11">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/comlogo-4-2-scaled.jpg</Item>
+        <Item medium="image" caption="img12">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/018-7-scaled.jpg</Item>
+        <Item medium="image" caption="img13">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/017-8-scaled.jpg</Item>
+        <Item medium="image" caption="img14">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/016-8-scaled.jpg</Item>
+        <Item medium="image" caption="img15">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/015-8-scaled.jpg</Item>
+        <Item medium="image" caption="img16">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/014-8-scaled.jpg</Item>
+        <Item medium="image" caption="img17">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/013-9-scaled.jpg</Item>
+        <Item medium="image" caption="img18">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/012-3-1-scaled.jpg</Item>
+        <Item medium="image" caption="img19">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/012-2-1-scaled.jpg</Item>
+        <Item medium="image" caption="img20">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/012-11-scaled.jpg</Item>
+        <Item medium="image" caption="img21">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/011-10-scaled.jpg</Item>
+        <Item medium="image" caption="img22">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/010-10-scaled.jpg</Item>
+        <Item medium="image" caption="img23">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/009-10-scaled.jpg</Item>
+        <Item medium="image" caption="img24">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/008-10-scaled.jpg</Item>
+        <Item medium="image" caption="img25">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/006-10-scaled.jpg</Item>
+        <Item medium="image" caption="img26">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/005-10-scaled.jpg</Item>
+        <Item medium="image" caption="img27">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/004-10-scaled.jpg</Item>
+        <Item medium="image" caption="img28">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/003-11-scaled.jpg</Item>
+        <Item medium="image" caption="img29">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/002-14-scaled.jpg</Item>
+        <Item medium="image" caption="img30">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/001-19-scaled.jpg</Item>
+        <Item medium="image" caption="img31">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/000-12-scaled.jpg</Item>
+        <Item medium="image" caption="img32">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/001-18-scaled.jpg</Item>
+        <Item medium="image" caption="img33">https://arcosimobiliaria.com.br/wp-content/uploads/2025/11/000-11-scaled.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description>Apartamento à venda no Alameda Verdejar Club Residence, no bairro Luzia, uma das regiões mais completas e estratégicas de Aracaju. Localização privilegiada, próximo à Pisolar, Hospital Renascença, Estácio e Uninassau, além de estar a poucos metros das avenidas Hermes Fontes e Francisco Porto.
+
+O imóvel possui 87 m² bem distribuídos, com 3 quartos, sendo 1 suíte, sala espaçosa integrada à varanda, banheiro social, cozinha com móveis planejados e área de serviço com banheiro auxiliar. A posição Norte/Leste garante excelente iluminação natural e ventilação durante todo o dia.
+
+O condomínio oferece lazer completo estilo clube, com piscina adulto e infantil, toboágua, piscina para vôlei aquático, área gourmet com churrasqueira, lounge aberto, quadra poliesportiva, academia, espaço inteligente, salão de festas adulto e infantil, brinquedoteca, salão de jogos, pátio e quiosques. Conta com 1 vaga de garagem. Ideal para quem busca bem-estar, localização privilegiada e infraestrutura robusta em um dos residenciais mais desejados do Luzia.
+</Description>
+        <ListPrice currency="BRL">570000</ListPrice>
+        <LivingArea unit="square metres">87.0</LivingArea>
+        <PropertyAdministrationFee currency="BRL">530</PropertyAdministrationFee>
+        <YearlyTax currency="BRL">2100</YearlyTax>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>2</Bathrooms>
+        <Suites>1</Suites>
+        <Garage type="Parking Space">1</Garage>
+        <Features>
+          <Feature>BBQ</Feature>
+          <Feature>Balcony</Feature>
+          <Feature>Game room</Feature>
+          <Feature>Gourmet Area</Feature>
+          <Feature>Gym</Feature>
+          <Feature>Playground</Feature>
+          <Feature>Pool</Feature>
+          <Feature>Reception room</Feature>
+          <Feature>Security Guard on Duty</Feature>
+          <Feature>Sports Court</Feature>
+        </Features>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SE">Sergipe</State>
+        <City>Aracaju</City>
+        <Neighborhood>Centro</Neighborhood>
+        <Address>Rua Maye Bell Taylor, 150 - Luzia, Aracaju - SE, 49045-030</Address>
+        <PostalCode>49045-030</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Arcos Imobiliária</Name>
+        <Email>contato@arcosimobiliaria.com.br</Email>
+        <Website>https://arcosimobiliaria.com.br</Website>
+        <Telephone>(79) 3214-5400</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>0642</ListingID>
+      <Title>Lessence Jardins</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://arcosimobiliaria.com.br/imovel/lessence-jardins-0642/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01" primary="true">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/018-2.jpg</Item>
+        <Item medium="image" caption="img02">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/017-2.jpg</Item>
+        <Item medium="image" caption="img03">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/016-2.jpg</Item>
+        <Item medium="image" caption="img04">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/015-2.jpg</Item>
+        <Item medium="image" caption="img05">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/014-2.jpg</Item>
+        <Item medium="image" caption="img06">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/013-2.jpg</Item>
+        <Item medium="image" caption="img07">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/012-2.jpg</Item>
+        <Item medium="image" caption="img08">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/011-2.jpg</Item>
+        <Item medium="image" caption="img09">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/010-2.jpg</Item>
+        <Item medium="image" caption="img10">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/009-2.jpg</Item>
+        <Item medium="image" caption="img11">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/008-2.jpg</Item>
+        <Item medium="image" caption="img12">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/007-2.jpg</Item>
+        <Item medium="image" caption="img13">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/006-2.jpg</Item>
+        <Item medium="image" caption="img14">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/005-2.jpg</Item>
+        <Item medium="image" caption="img15">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/004-2.jpg</Item>
+        <Item medium="image" caption="img16">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/003-4.jpg</Item>
+        <Item medium="image" caption="img17">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/002-3.jpg</Item>
+        <Item medium="image" caption="img18">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/001-4.jpg</Item>
+        <Item medium="image" caption="img19">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/000-2-2.jpg</Item>
+        <Item medium="image" caption="img20">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/000-3.jpg</Item>
+        <Item medium="image" caption="img21">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/000-2-1.jpg</Item>
+        <Item medium="image" caption="img22">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/000-2.jpg</Item>
+        <Item medium="image" caption="img23">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/lessence-semlogo.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description>Apartamento à venda no Grageru, no L’Essence Jardins, um dos empreendimentos mais valorizados da Construtora Santa Maria. Localizado a poucos metros da Av. Pedro Valadares, SmartFit Jardins, Casa Alemã e a três quadras da Av. Francisco Porto, une praticidade, alto padrão e excelente mobilidade urbana.
+
+Com 98 m² bem distribuídos, o imóvel oferece 3 quartos (1 suíte), sala ampla integrada à varanda, banheiro social, cozinha funcional e área de serviço. Ficam os planejados da cozinha e banheiros, além do projeto de iluminação. São 2 vagas de garagem e posição Sul/Leste, garantindo ventilação e luminosidade na medida certa. Uma ótima opção para quem busca morar com conforto, requinte e qualidade de vida no Grageru.</Description>
+        <ListPrice currency="BRL">655000</ListPrice>
+        <LivingArea unit="square metres">98.0</LivingArea>
+        <PropertyAdministrationFee currency="BRL">800</PropertyAdministrationFee>
+        <YearlyTax currency="BRL">2823</YearlyTax>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>2</Bathrooms>
+        <Suites>1</Suites>
+        <Garage type="Parking Space">2</Garage>
+        <Features>
+          <Feature>BBQ</Feature>
+          <Feature>Balcony</Feature>
+          <Feature>Game room</Feature>
+          <Feature>Gourmet Area</Feature>
+          <Feature>Gym</Feature>
+          <Feature>Playground</Feature>
+          <Feature>Pool</Feature>
+          <Feature>Reception room</Feature>
+          <Feature>Sports Court</Feature>
+        </Features>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SE">Sergipe</State>
+        <City>Aracaju</City>
+        <Neighborhood>Centro</Neighborhood>
+        <Address>Rua Francisco Gumercindo Bessa, 315 - Grageru, Aracaju - SE</Address>
+        <PostalCode>49010-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Arcos Imobiliária</Name>
+        <Email>contato@arcosimobiliaria.com.br</Email>
+        <Website>https://arcosimobiliaria.com.br</Website>
+        <Telephone>(79) 3214-5400</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>0644</ListingID>
+      <Title>Condomínio Morada Feliz</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://arcosimobiliaria.com.br/imovel/condominio-morada-feliz-0644/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01" primary="true">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/021-2.jpg</Item>
+        <Item medium="image" caption="img02">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/020-2.jpg</Item>
+        <Item medium="image" caption="img03">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/019-4.jpg</Item>
+        <Item medium="image" caption="img04">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/018-4.jpg</Item>
+        <Item medium="image" caption="img05">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/017-4.jpg</Item>
+        <Item medium="image" caption="img06">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/016-4.jpg</Item>
+        <Item medium="image" caption="img07">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/015-4.jpg</Item>
+        <Item medium="image" caption="img08">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/014-4.jpg</Item>
+        <Item medium="image" caption="img09">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/013-4.jpg</Item>
+        <Item medium="image" caption="img10">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/012-4.jpg</Item>
+        <Item medium="image" caption="img11">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/011-4.jpg</Item>
+        <Item medium="image" caption="img12">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/010-4.jpg</Item>
+        <Item medium="image" caption="img13">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/009-4.jpg</Item>
+        <Item medium="image" caption="img14">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/008-4.jpg</Item>
+        <Item medium="image" caption="img15">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/007-4.jpg</Item>
+        <Item medium="image" caption="img16">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/006-4.jpg</Item>
+        <Item medium="image" caption="img17">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/005-4.jpg</Item>
+        <Item medium="image" caption="img18">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/004-4.jpg</Item>
+        <Item medium="image" caption="img19">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/003-6.jpg</Item>
+        <Item medium="image" caption="img20">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/002-5.jpg</Item>
+        <Item medium="image" caption="img21">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/001-8.jpg</Item>
+        <Item medium="image" caption="img22">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/000-7.jpg</Item>
+        <Item medium="image" caption="img23">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/001-7.jpg</Item>
+        <Item medium="image" caption="img24">https://arcosimobiliaria.com.br/wp-content/uploads/2025/12/000-6.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description>Apartamento à venda no bairro Marivan, em Aracaju, no Condomínio Morada Feliz, em excelente localização na Avenida Jornalista Juarez Conrado, com fácil acesso à Avenida José Carlos Silva e GBarbosa. O imóvel possui 47,25 m² bem aproveitados, com 2 quartos, sala, banheiro social, cozinha funcional e área de serviço. Conta ainda com 1 vaga de garagem e posição Norte/Leste, garantindo boa ventilação e iluminação natural. O condomínio oferece lazer completo com piscinas adulto e infantil, quiosques, quadra esportiva, parque infantil, minimercado, salão de festas, espaço gourmet com churrasqueira e academia ao ar livre. Ideal para quem busca conforto, praticidade e ótimo custo-benefício em Aracaju.</Description>
+        <ListPrice currency="BRL">165000</ListPrice>
+        <LivingArea unit="square metres">47.0</LivingArea>
+        <PropertyAdministrationFee currency="BRL">320</PropertyAdministrationFee>
+        <YearlyTax currency="BRL">105</YearlyTax>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+        <Features>
+          <Feature>Gourmet Area</Feature>
+          <Feature>Gym</Feature>
+          <Feature>Playground</Feature>
+          <Feature>Pool</Feature>
+          <Feature>Reception room</Feature>
+          <Feature>Sports Court</Feature>
+        </Features>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SE">Sergipe</State>
+        <City>Aracaju</City>
+        <Neighborhood>Centro</Neighborhood>
+        <Address>Av. Jorn. Juarez Conrado Dantas, 1001 - bairro Marivan - Morada Feliz Residencial CEP:, Aracaju - SE, 49039-083</Address>
+        <PostalCode>49039-083</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Arcos Imobiliária</Name>
+        <Email>contato@arcosimobiliaria.com.br</Email>
+        <Website>https://arcosimobiliaria.com.br</Website>
+        <Telephone>(79) 3214-5400</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>0649</ListingID>
+      <Title>Morada da Praia II</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://arcosimobiliaria.com.br/imovel/morada-da-praia-ii-0649/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01" primary="true">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/030.jpg</Item>
+        <Item medium="image" caption="img02">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/029.jpg</Item>
+        <Item medium="image" caption="img03">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/028.jpg</Item>
+        <Item medium="image" caption="img04">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/027.jpg</Item>
+        <Item medium="image" caption="img05">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/026.jpg</Item>
+        <Item medium="image" caption="img06">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/025.jpg</Item>
+        <Item medium="image" caption="img07">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/024.jpg</Item>
+        <Item medium="image" caption="img08">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/023.jpg</Item>
+        <Item medium="image" caption="img09">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/022.jpg</Item>
+        <Item medium="image" caption="img10">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/021.jpg</Item>
+        <Item medium="image" caption="img11">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/020.jpg</Item>
+        <Item medium="image" caption="img12">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/019.jpg</Item>
+        <Item medium="image" caption="img13">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/018.jpg</Item>
+        <Item medium="image" caption="img14">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/017.jpg</Item>
+        <Item medium="image" caption="img15">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/015.jpg</Item>
+        <Item medium="image" caption="img16">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/013.jpg</Item>
+        <Item medium="image" caption="img17">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/012.jpg</Item>
+        <Item medium="image" caption="img18">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/011.jpg</Item>
+        <Item medium="image" caption="img19">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/010.jpg</Item>
+        <Item medium="image" caption="img20">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/009.jpg</Item>
+        <Item medium="image" caption="img21">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/008.jpg</Item>
+        <Item medium="image" caption="img22">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/007.jpg</Item>
+        <Item medium="image" caption="img23">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/006.jpg</Item>
+        <Item medium="image" caption="img24">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/005.jpg</Item>
+        <Item medium="image" caption="img25">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/003.jpg</Item>
+        <Item medium="image" caption="img26">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/002.jpg</Item>
+        <Item medium="image" caption="img27">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/001-1.jpg</Item>
+        <Item medium="image" caption="img28">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/000-1.jpg</Item>
+        <Item medium="image" caption="img29">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/001.jpg</Item>
+        <Item medium="image" caption="img30">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/000.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description>Casa de alto padrão recém-construída à venda no Condomínio Morada da Praia II, na Gameleira, em uma das localizações mais exclusivas da região, a poucos passos do mar, em frente ao Parati e à Moqueca Alagoana, pertinho dos principais pontos de lazer.
+Com um terreno de generosos 631 m² posicionado a Norte/Leste, possui 524 m² de área construída, distribuídos em dois pavimentos imponentes, com projeto contemporâneo, conforto térmico, ambientes amplos e acabamento sofisticado.
+No pavimento térreo, a casa conta com hall de entrada, sala de estar ampla, 1 suíte, 2 lavabos, cozinha espaçosa, espaço gourmet integrado, ampla área verde, piscina com hidromassagem, banheiro de apoio, área de serviço, depósito e 4 vagas de garagem.
+No pavimento superior, dispõe de home office, varanda ampla com vista para a área de lazer privativa e para o mar, além de 4 suítes confortáveis, garantindo privacidade e alto nível de conforto.
+O condomínio oferece estrutura de lazer completa, com lago ornamental, academia, salão de festas, salão de jogos, bar e restaurante, parque aquático, parque infantil, complexo esportivo com campo de futebol gramado, quadra poliesportiva e quadra de tênis, além de quiosques, churrasqueiras e estacionamento para visitantes. Um imóvel único para quem busca sofisticação, espaço, lazer e qualidade de vida à beira-mar.
+</Description>
+        <ListPrice currency="BRL">5500000</ListPrice>
+        <LivingArea unit="square metres">631.0</LivingArea>
+        <PropertyAdministrationFee currency="BRL">1200</PropertyAdministrationFee>
+        <YearlyTax currency="BRL">5000</YearlyTax>
+        <Bedrooms>5</Bedrooms>
+        <Bathrooms>6</Bathrooms>
+        <Suites>5</Suites>
+        <Garage type="Parking Space">4</Garage>
+        <Features>
+          <Feature>BBQ</Feature>
+          <Feature>Balcony</Feature>
+          <Feature>Game room</Feature>
+          <Feature>Gourmet Area</Feature>
+          <Feature>Gym</Feature>
+          <Feature>Laundry</Feature>
+          <Feature>Ocean View</Feature>
+          <Feature>Playground</Feature>
+          <Feature>Pool</Feature>
+          <Feature>Reception room</Feature>
+          <Feature>Sports Court</Feature>
+        </Features>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SE">Sergipe</State>
+        <City>Aracaju</City>
+        <Neighborhood>Centro</Neighborhood>
+        <Address>Av. Inácio Barbosa, 4650 - Gameleira, Aracaju - SE</Address>
+        <PostalCode>49010-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Arcos Imobiliária</Name>
+        <Email>contato@arcosimobiliaria.com.br</Email>
+        <Website>https://arcosimobiliaria.com.br</Website>
+        <Telephone>(79) 3214-5400</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>0656</ListingID>
+      <Title>Neo Residence Jardins</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://arcosimobiliaria.com.br/imovel/neo-residence-jardins-0656/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01" primary="true">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/comlogo-5-1.jpg</Item>
+        <Item medium="image" caption="img02">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/comlogo-4-1.jpg</Item>
+        <Item medium="image" caption="img03">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/comlogo-3-1.jpg</Item>
+        <Item medium="image" caption="img04">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/comlogo-2-1.jpg</Item>
+        <Item medium="image" caption="img05">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/comlogo-1-1.jpg</Item>
+        <Item medium="image" caption="img06">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/comlogo-14-1.jpg</Item>
+        <Item medium="image" caption="img07">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/comlogo-13-1.jpg</Item>
+        <Item medium="image" caption="img08">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/comlogo-12-1.jpg</Item>
+        <Item medium="image" caption="img09">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/comlogo-11-1.jpg</Item>
+        <Item medium="image" caption="img10">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/comlogo-10-1.jpg</Item>
+        <Item medium="image" caption="img11">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/comlogo-9-1.jpg</Item>
+        <Item medium="image" caption="img12">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/comlogo-8-1.jpg</Item>
+        <Item medium="image" caption="img13">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/comlogo-7-1.jpg</Item>
+        <Item medium="image" caption="img14">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/comlogo-6-1.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description>Apartamento à venda no Neo Residence Jardins, em localização excepcional na Avenida José Machado, ao lado do Shopping Jardins, um dos endereços mais valorizados e completos de Aracaju. Rodeado por hospitais, escolas, academias, bancos, clínicas, salões de beleza e serviços essenciais, o empreendimento garante praticidade total no dia a dia.
+
+O imóvel possui 68,3 m² de área privativa, distribuídos de forma funcional e aconchegante: 2 quartos, sendo 1 suíte, sala integrada à varanda, cozinha americana e área de serviço. A unidade dispõe ainda de 1 vaga de garagem, 1 depósito e posição Norte, oferecendo ótima ventilação e ambiente naturalmente mais fresco.
+
+O condomínio se destaca pela infraestrutura de alto padrão, com piscina coberta e aquecida com raia de 25 metros, piscina externa, academia moderna, salão de festas, salão de jogos, espaço gourmet, brinquedoteca, parque infantil, quadra esportiva, espaço mulher, espaço leitura e home cine. Uma excelente opção para quem busca conforto, segurança, lazer completo e conveniência em um dos melhores pontos da capital.
+</Description>
+        <ListPrice currency="BRL">600000</ListPrice>
+        <LivingArea unit="square metres">68.3</LivingArea>
+        <PropertyAdministrationFee currency="BRL">406</PropertyAdministrationFee>
+        <YearlyTax currency="BRL">2151</YearlyTax>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>2</Bathrooms>
+        <Suites>1</Suites>
+        <Garage type="Parking Space">1</Garage>
+        <Features>
+          <Feature>BBQ</Feature>
+          <Feature>Balcony</Feature>
+          <Feature>Game room</Feature>
+          <Feature>Gourmet Area</Feature>
+          <Feature>Gym</Feature>
+          <Feature>Media Room</Feature>
+          <Feature>Pool</Feature>
+          <Feature>Reception room</Feature>
+          <Feature>Security Guard on Duty</Feature>
+          <Feature>Sports Court</Feature>
+        </Features>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SE">Sergipe</State>
+        <City>Aracaju</City>
+        <Neighborhood>Centro</Neighborhood>
+        <Address>Av. Dr. José Machado de Souza, 220 - Jardins, Aracaju - SE, 49025-740</Address>
+        <PostalCode>49025-740</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Arcos Imobiliária</Name>
+        <Email>contato@arcosimobiliaria.com.br</Email>
+        <Website>https://arcosimobiliaria.com.br</Website>
+        <Telephone>(79) 3214-5400</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>0657</ListingID>
+      <Title>Neo Residence Jardins</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://arcosimobiliaria.com.br/imovel/neo-residence-jardins-0657/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01" primary="true">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/comlogo-5-2.jpg</Item>
+        <Item medium="image" caption="img02">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/comlogo-4-2.jpg</Item>
+        <Item medium="image" caption="img03">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/comlogo-3-2.jpg</Item>
+        <Item medium="image" caption="img04">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/comlogo-2-2.jpg</Item>
+        <Item medium="image" caption="img05">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/comlogo-1-2.jpg</Item>
+        <Item medium="image" caption="img06">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/comlogo-16-1.jpg</Item>
+        <Item medium="image" caption="img07">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/comlogo-15-1.jpg</Item>
+        <Item medium="image" caption="img08">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/comlogo-14-2.jpg</Item>
+        <Item medium="image" caption="img09">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/comlogo-13-2.jpg</Item>
+        <Item medium="image" caption="img10">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/comlogo-12-2.jpg</Item>
+        <Item medium="image" caption="img11">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/comlogo-11-2.jpg</Item>
+        <Item medium="image" caption="img12">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/comlogo-10-2.jpg</Item>
+        <Item medium="image" caption="img13">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/comlogo-9-2.jpg</Item>
+        <Item medium="image" caption="img14">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/comlogo-8-2.jpg</Item>
+        <Item medium="image" caption="img15">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/comlogo-7-2.jpg</Item>
+        <Item medium="image" caption="img16">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/comlogo-6-2.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description>Apartamento à venda no Neo Residence Jardins, em localização excepcional na Avenida José Machado, ao lado do Shopping Jardins, um dos endereços mais valorizados e completos de Aracaju. Rodeado por hospitais, escolas, academias, bancos, clínicas, salões de beleza e serviços essenciais, o empreendimento garante praticidade total no dia a dia.
+
+O imóvel possui 80 m² de área privativa, distribuídos de forma funcional e aconchegante: 3 quartos, sendo 1 suíte, sala integrada à varanda, cozinha americana e área de serviço. A unidade dispõe ainda de 2 vagas de garagem, 1 depósito e posição Sul, oferecendo ótima ventilação e ambiente naturalmente mais fresco.
+
+O condomínio se destaca pela infraestrutura de alto padrão, com piscina coberta e aquecida com raia de 25 metros, piscina externa, academia moderna, salão de festas, salão de jogos, espaço gourmet, brinquedoteca, parque infantil, quadra esportiva, espaço mulher, espaço leitura e home cine. Uma excelente opção para quem busca conforto, segurança, lazer completo e conveniência em um dos melhores pontos da capital.
+</Description>
+        <ListPrice currency="BRL">700000</ListPrice>
+        <LivingArea unit="square metres">79.0</LivingArea>
+        <PropertyAdministrationFee currency="BRL">479</PropertyAdministrationFee>
+        <YearlyTax currency="BRL">2190</YearlyTax>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>3</Bathrooms>
+        <Suites>1</Suites>
+        <Garage type="Parking Space">2</Garage>
+        <Features>
+          <Feature>BBQ</Feature>
+          <Feature>Balcony</Feature>
+          <Feature>Game room</Feature>
+          <Feature>Gourmet Area</Feature>
+          <Feature>Gym</Feature>
+          <Feature>Media Room</Feature>
+          <Feature>Pool</Feature>
+          <Feature>Reception room</Feature>
+          <Feature>Security Guard on Duty</Feature>
+          <Feature>Sports Court</Feature>
+        </Features>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SE">Sergipe</State>
+        <City>Aracaju</City>
+        <Neighborhood>Centro</Neighborhood>
+        <Address>Av. Dr. José Machado de Souza, 220 - Jardins, Aracaju - SE, 49025-740</Address>
+        <PostalCode>49025-740</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Arcos Imobiliária</Name>
+        <Email>contato@arcosimobiliaria.com.br</Email>
+        <Website>https://arcosimobiliaria.com.br</Website>
+        <Telephone>(79) 3214-5400</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>0658</ListingID>
+      <Title>Vila Jardins Mais Viver</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://arcosimobiliaria.com.br/imovel/vila-jardins-mais-viver-0658/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01" primary="true">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/vilajardinscomlogo-14.jpg</Item>
+        <Item medium="image" caption="img02">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/vilajardinscomlogo-13.jpg</Item>
+        <Item medium="image" caption="img03">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/vilajardinscomlogo-12.jpg</Item>
+        <Item medium="image" caption="img04">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/vilajardinscomlogo-11.jpg</Item>
+        <Item medium="image" caption="img05">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/vilajardinscomlogo-10.jpg</Item>
+        <Item medium="image" caption="img06">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/vilajardinscomlogo-9.jpg</Item>
+        <Item medium="image" caption="img07">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/vilajardinscomlogo-8.jpg</Item>
+        <Item medium="image" caption="img08">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/vilajardinscomlogo-7.jpg</Item>
+        <Item medium="image" caption="img09">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/vilajardinscomlogo-6.jpg</Item>
+        <Item medium="image" caption="img10">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/vilajardinscomlogo-5.jpg</Item>
+        <Item medium="image" caption="img11">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/vilajardinscomlogo-4.jpg</Item>
+        <Item medium="image" caption="img12">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/vilajardinscomlogo-3.jpg</Item>
+        <Item medium="image" caption="img13">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/vilajardinscomlogo-2.jpg</Item>
+        <Item medium="image" caption="img14">https://arcosimobiliaria.com.br/wp-content/uploads/2026/01/vilajardinscomlogo-1.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description>Apartamento à venda no Vila Jardins Mais Viver Condomínio Clube, no bairro São Brás, em Nossa Senhora do Socorro, com excelente custo-benefício. São 67 m², distribuídos em 2 quartos, sala confortável, banheiro social, cozinha e área de serviço. Conta com 1 vaga de garagem coberta, posição Norte/Leste, que garante melhor ventilação e conforto térmico, além de gás incluso na taxa condominial. O condomínio oferece área de lazer com piscina, salão de festas e parque infantil, ideal para quem busca praticidade, segurança e qualidade de vida.</Description>
+        <ListPrice currency="BRL">150000</ListPrice>
+        <LivingArea unit="square metres">67.0</LivingArea>
+        <PropertyAdministrationFee currency="BRL">210</PropertyAdministrationFee>
+        <YearlyTax currency="BRL">429</YearlyTax>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+        <Garage type="Parking Space">1</Garage>
+        <Features>
+          <Feature>Playground</Feature>
+          <Feature>Pool</Feature>
+          <Feature>Reception room</Feature>
+        </Features>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SE">Sergipe</State>
+        <City>Nossa Senhora do Socorro</City>
+        <Neighborhood>Nossa Senhora do Socorro</Neighborhood>
+        <Address>R. Tapuia, 70 - São Brás, Nossa Sra. do Socorro - SE, 49156-790</Address>
+        <PostalCode>49156-790</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Arcos Imobiliária</Name>
+        <Email>contato@arcosimobiliaria.com.br</Email>
+        <Website>https://arcosimobiliaria.com.br</Website>
+        <Telephone>(79) 3214-5400</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>0670</ListingID>
+      <Title>Lote na Fazenda Real Residence</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://arcosimobiliaria.com.br/imovel/lote-na-fazenda-real-residence-0670/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01" primary="true">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/realresidencecomlogo-11.jpg</Item>
+        <Item medium="image" caption="img02">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/realresidencecomlogo-10.jpg</Item>
+        <Item medium="image" caption="img03">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/realresidencecomlogo-9.jpg</Item>
+        <Item medium="image" caption="img04">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/realresidencecomlogo-8.jpg</Item>
+        <Item medium="image" caption="img05">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/realresidencecomlogo-7.jpg</Item>
+        <Item medium="image" caption="img06">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/realresidencecomlogo-6.jpg</Item>
+        <Item medium="image" caption="img07">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/realresidencecomlogo-5.jpg</Item>
+        <Item medium="image" caption="img08">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/realresidencecomlogo-4.jpg</Item>
+        <Item medium="image" caption="img09">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/realresidencecomlogo-2-1.jpg</Item>
+        <Item medium="image" caption="img10">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/realresidencecomlogo-1.jpg</Item>
+        <Item medium="image" caption="img11">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/00realresidencecomlogo-0-1.jpg</Item>
+        <Item medium="image" caption="img12">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/realresidencecomlogo-2.jpg</Item>
+        <Item medium="image" caption="img13">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/00realresidencecomlogo-0.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description>&lt;span style=&quot;font-weight: 400;&quot;&gt;Lote à venda no Abaís, no Fazenda Real Residence, condomínio fechado localizado no km 513 da Rodovia Ayrton Senna, no povoado Rio Fundo do Abaís, em Itaporanga D’Ajuda. Com 525 m² de área total, o lote oferece excelente potencial construtivo em um ambiente planejado, cercado por natureza e tranquilidade. O condomínio conta com infraestrutura completa de lazer, incluindo piscinas, academia, salão de festas, área gourmet, parque infantil, brinquedoteca, salão de jogos, quadra esportiva e até haras com animais para uso dos moradores. Ideal para quem busca qualidade de vida, contato com a natureza e valorização patrimonial.&lt;/span&gt;</Description>
+        <ListPrice currency="BRL">105000</ListPrice>
+        <LivingArea unit="square metres">525.0</LivingArea>
+        <Features>
+          <Feature>Game room</Feature>
+          <Feature>Gourmet Area</Feature>
+          <Feature>Gym</Feature>
+          <Feature>Playground</Feature>
+          <Feature>Pool</Feature>
+          <Feature>Reception room</Feature>
+        </Features>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SE">Sergipe</State>
+        <City>Itaporanga D'Ajuda</City>
+        <Neighborhood>Itaporanga D'Ajuda</Neighborhood>
+        <Address>Curralinho, Itaporanga d'Ajuda - SE, 49120-000</Address>
+        <PostalCode>49120-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Arcos Imobiliária</Name>
+        <Email>contato@arcosimobiliaria.com.br</Email>
+        <Website>https://arcosimobiliaria.com.br</Website>
+        <Telephone>(79) 3214-5400</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>0679</ListingID>
+      <Title>Trianon Jardins</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://arcosimobiliaria.com.br/imovel/trianon-jardins-0679/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01" primary="true">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/trianoncomlogo-3230.jpg</Item>
+        <Item medium="image" caption="img02">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/trianoncomlogo-3216.jpg</Item>
+        <Item medium="image" caption="img03">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/trianoncomlogo-3212.jpg</Item>
+        <Item medium="image" caption="img04">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/trianoncomlogo-3190.jpg</Item>
+        <Item medium="image" caption="img05">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/trianoncomlogo-3186.jpg</Item>
+        <Item medium="image" caption="img06">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/trianoncomlogo-3166.jpg</Item>
+        <Item medium="image" caption="img07">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/trianoncomlogo-3157.jpg</Item>
+        <Item medium="image" caption="img08">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/trianoncomlogo-3154.jpg</Item>
+        <Item medium="image" caption="img09">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/trianoncomlogo-3130.jpg</Item>
+        <Item medium="image" caption="img10">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/trianoncomlogo-3118.jpg</Item>
+        <Item medium="image" caption="img11">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/trianoncomlogo-51-13.jpg</Item>
+        <Item medium="image" caption="img12">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/trianoncomlogo-51-12.jpg</Item>
+        <Item medium="image" caption="img13">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/trianoncomlogo-51-10.jpg</Item>
+        <Item medium="image" caption="img14">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/trianoncomlogo-51-9.jpg</Item>
+        <Item medium="image" caption="img15">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/trianoncomlogo-51-8.jpg</Item>
+        <Item medium="image" caption="img16">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/trianoncomlogo-51-7.jpg</Item>
+        <Item medium="image" caption="img17">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/trianoncomlogo-51-6.jpg</Item>
+        <Item medium="image" caption="img18">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/trianoncomlogo-51-5.jpg</Item>
+        <Item medium="image" caption="img19">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/trianoncomlogo-51-4.jpg</Item>
+        <Item medium="image" caption="img20">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/trianoncomlogo-51-3.jpg</Item>
+        <Item medium="image" caption="img21">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/trianoncomlogo-51-2.jpg</Item>
+        <Item medium="image" caption="img22">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/trianoncomlogo-51.jpg</Item>
+        <Item medium="image" caption="img23">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/001trianoncomlogo-1.jpg</Item>
+        <Item medium="image" caption="img24">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/000Trianoncomlogo-1.jpg</Item>
+        <Item medium="image" caption="img25">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/001trianoncomlogo.jpg</Item>
+        <Item medium="image" caption="img26">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/000Trianoncomlogo.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description>&lt;span style=&quot;font-weight: 400;&quot;&gt;Apartamento à venda no Trianon Jardins, próximo ao Jardim Europa Medical Center, em uma das regiões mais valorizadas de Aracaju.&lt;/span&gt;
+
+&lt;span style=&quot;font-weight: 400;&quot;&gt;Com 72m² bem distribuídos, possui 2 quartos, sendo 1 suíte, sala ampla em L, varanda com vista livre, banheiro social, cozinha e área de serviço. Conta com 2 vagas de garagem e posição Norte, garantindo ótima ventilação. Permanecem os planejados da sala, cozinha, área de serviço, varanda e suíte. Gás incluso e lazer completo com piscina, academia, salão de festas, espaço gourmet, quadra e muito mais. Ideal para morar com conforto e excelente localização no Jardins.&lt;/span&gt;</Description>
+        <ListPrice currency="BRL">725000</ListPrice>
+        <LivingArea unit="square metres">72.0</LivingArea>
+        <PropertyAdministrationFee currency="BRL">780</PropertyAdministrationFee>
+        <YearlyTax currency="BRL">2400</YearlyTax>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>2</Bathrooms>
+        <Suites>1</Suites>
+        <Garage type="Parking Space">2</Garage>
+        <Features>
+          <Feature>BBQ</Feature>
+          <Feature>Balcony</Feature>
+          <Feature>Game room</Feature>
+          <Feature>Gourmet Area</Feature>
+          <Feature>Gym</Feature>
+          <Feature>Laundry</Feature>
+          <Feature>Playground</Feature>
+          <Feature>Pool</Feature>
+          <Feature>Reception room</Feature>
+        </Features>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SE">Sergipe</State>
+        <City>Aracaju</City>
+        <Neighborhood>Centro</Neighborhood>
+        <Address>R. Anna Dulce Vieira de Carvalho, 130 - Jardins, Aracaju - SE, 49026-196</Address>
+        <PostalCode>49026-196</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Arcos Imobiliária</Name>
+        <Email>contato@arcosimobiliaria.com.br</Email>
+        <Website>https://arcosimobiliaria.com.br</Website>
+        <Telephone>(79) 3214-5400</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>0681</ListingID>
+      <Title>Casa na Farolândia</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://arcosimobiliaria.com.br/imovel/casa-na-farolandia-0681/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01" primary="true">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/casanafarolandia-36.jpg</Item>
+        <Item medium="image" caption="img02">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/casanafarolandia-35.jpg</Item>
+        <Item medium="image" caption="img03">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/casanafarolandia-34.jpg</Item>
+        <Item medium="image" caption="img04">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/casanafarolandia-33.jpg</Item>
+        <Item medium="image" caption="img05">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/casanafarolandia-32.jpg</Item>
+        <Item medium="image" caption="img06">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/casanafarolandia-31.jpg</Item>
+        <Item medium="image" caption="img07">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/casanafarolandia-30.jpg</Item>
+        <Item medium="image" caption="img08">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/casanafarolandia-29.jpg</Item>
+        <Item medium="image" caption="img09">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/casanafarolandia-28.jpg</Item>
+        <Item medium="image" caption="img10">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/casanafarolandia-27.jpg</Item>
+        <Item medium="image" caption="img11">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/casanafarolandia-26.jpg</Item>
+        <Item medium="image" caption="img12">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/casanafarolandia-25.jpg</Item>
+        <Item medium="image" caption="img13">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/casanafarolandia-24.jpg</Item>
+        <Item medium="image" caption="img14">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/casanafarolandia-23.jpg</Item>
+        <Item medium="image" caption="img15">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/casanafarolandia-22.jpg</Item>
+        <Item medium="image" caption="img16">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/casanafarolandia-21.jpg</Item>
+        <Item medium="image" caption="img17">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/casanafarolandia-20.jpg</Item>
+        <Item medium="image" caption="img18">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/casanafarolandia-19.jpg</Item>
+        <Item medium="image" caption="img19">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/casanafarolandia-18.jpg</Item>
+        <Item medium="image" caption="img20">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/casanafarolandia-17.jpg</Item>
+        <Item medium="image" caption="img21">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/casanafarolandia-16.jpg</Item>
+        <Item medium="image" caption="img22">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/casanafarolandia-15.jpg</Item>
+        <Item medium="image" caption="img23">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/casanafarolandia-14.jpg</Item>
+        <Item medium="image" caption="img24">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/casanafarolandia-13.jpg</Item>
+        <Item medium="image" caption="img25">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/casanafarolandia-12.jpg</Item>
+        <Item medium="image" caption="img26">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/casanafarolandia-11.jpg</Item>
+        <Item medium="image" caption="img27">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/casanafarolandia-10.jpg</Item>
+        <Item medium="image" caption="img28">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/casanafarolandia-9.jpg</Item>
+        <Item medium="image" caption="img29">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/casanafarolandia-8.jpg</Item>
+        <Item medium="image" caption="img30">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/casanafarolandia-7.jpg</Item>
+        <Item medium="image" caption="img31">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/casanafarolandia-6.jpg</Item>
+        <Item medium="image" caption="img32">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/casanafarolandia-5.jpg</Item>
+        <Item medium="image" caption="img33">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/casanafarolandia-4.jpg</Item>
+        <Item medium="image" caption="img34">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/casanafarolandia-3.jpg</Item>
+        <Item medium="image" caption="img35">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/casanafarolandia-2-1.jpg</Item>
+        <Item medium="image" caption="img36">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/casanafarolandia-1-1.jpg</Item>
+        <Item medium="image" caption="img37">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/casanafarolandia-2.jpg</Item>
+        <Item medium="image" caption="img38">https://arcosimobiliaria.com.br/wp-content/uploads/2026/02/casanafarolandia-1.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description>&lt;span style=&quot;font-weight: 400;&quot;&gt;Casa na Farolândia, próxima ao Central Garden, disponível para venda. Localizada na Rua Dr. João Matos de Carvalho, a poucos minutos da UNIT, GBarbosa e do Farol, em região estratégica da Zona Sul de Aracaju.&lt;/span&gt;
+
+&lt;span style=&quot;font-weight: 400;&quot;&gt;Com 262m², o imóvel dispõe de 4 suítes confortáveis, sala ampla em dois ambientes, cozinha com balcão americano e móveis planejados, área de serviço e terraço no pavimento superior. A área externa conta com espaço gourmet completo, piscina, churrasqueira e lavabo de apoio. Possui 4 vagas de garagem e posição Nordeste, favorecendo ventilação natural. Ideal para quem busca espaço, conforto e excelente localização.&lt;/span&gt;</Description>
+        <ListPrice currency="BRL">780000</ListPrice>
+        <LivingArea unit="square metres">262.0</LivingArea>
+        <YearlyTax currency="BRL">1809</YearlyTax>
+        <Bedrooms>4</Bedrooms>
+        <Bathrooms>5</Bathrooms>
+        <Suites>4</Suites>
+        <Garage type="Parking Space">4</Garage>
+        <Features>
+          <Feature>BBQ</Feature>
+          <Feature>Balcony</Feature>
+          <Feature>Gourmet Area</Feature>
+          <Feature>Laundry</Feature>
+          <Feature>Pool</Feature>
+          <Feature>Veranda</Feature>
+        </Features>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SE">Sergipe</State>
+        <City>Aracaju</City>
+        <Neighborhood>Centro</Neighborhood>
+        <Address>R. João Matos Carvalho, 69 - Farolândia, Aracaju - SE, 49032-240</Address>
+        <PostalCode>49032-240</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Arcos Imobiliária</Name>
+        <Email>contato@arcosimobiliaria.com.br</Email>
+        <Website>https://arcosimobiliaria.com.br</Website>
+        <Telephone>(79) 3214-5400</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>0709</ListingID>
+      <Title>Casa na Farolândia</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://arcosimobiliaria.com.br/imovel/casa-na-farolandia-0709/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01" primary="true">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/29.jpg</Item>
+        <Item medium="image" caption="img02">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/28.jpg</Item>
+        <Item medium="image" caption="img03">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/27.jpg</Item>
+        <Item medium="image" caption="img04">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/26.jpg</Item>
+        <Item medium="image" caption="img05">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/25.jpg</Item>
+        <Item medium="image" caption="img06">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/24.jpg</Item>
+        <Item medium="image" caption="img07">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/23.jpg</Item>
+        <Item medium="image" caption="img08">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/22.jpg</Item>
+        <Item medium="image" caption="img09">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/21.jpg</Item>
+        <Item medium="image" caption="img10">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/20.jpg</Item>
+        <Item medium="image" caption="img11">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/19.jpg</Item>
+        <Item medium="image" caption="img12">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/18.jpg</Item>
+        <Item medium="image" caption="img13">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/17.jpg</Item>
+        <Item medium="image" caption="img14">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/16.jpg</Item>
+        <Item medium="image" caption="img15">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/15.jpg</Item>
+        <Item medium="image" caption="img16">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/14.jpg</Item>
+        <Item medium="image" caption="img17">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/12.jpg</Item>
+        <Item medium="image" caption="img18">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/11.jpg</Item>
+        <Item medium="image" caption="img19">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/09.jpg</Item>
+        <Item medium="image" caption="img20">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/08.jpg</Item>
+        <Item medium="image" caption="img21">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/07.jpg</Item>
+        <Item medium="image" caption="img22">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/06.jpg</Item>
+        <Item medium="image" caption="img23">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/05.jpg</Item>
+        <Item medium="image" caption="img24">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/04.jpg</Item>
+        <Item medium="image" caption="img25">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/03.jpg</Item>
+        <Item medium="image" caption="img26">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/02.jpg</Item>
+        <Item medium="image" caption="img27">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/01-1.jpg</Item>
+        <Item medium="image" caption="img28">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/00-2.jpg</Item>
+        <Item medium="image" caption="img29">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/01.jpg</Item>
+        <Item medium="image" caption="img30">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/00-1.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description>&lt;span style=&quot;font-weight: 400;&quot;&gt;Casa à venda na Farolândia com ponto comercial, localizada na Rua Timóteo Calazans dos Santos, próxima à Canal 4 e ao SESI, em região com fácil acesso a diferentes bairros e boa circulação.&lt;/span&gt;
+
+&lt;span style=&quot;font-weight: 400;&quot;&gt;Com 162m², o imóvel possui 3 quartos, sendo 1 suíte, sala, varanda, banheiro social, cozinha e área de serviço, oferecendo uma planta funcional para moradia. Conta com 2 vagas de garagem e posição Norte/Leste, favorecendo ventilação e iluminação natural. O grande diferencial é o ponto comercial integrado, ideal para quem deseja unir moradia e trabalho no mesmo espaço ou gerar renda extra com locação. Excelente opção para quem busca praticidade e potencial de uso versátil em uma localização estratégica.&lt;/span&gt;</Description>
+        <ListPrice currency="BRL">490000</ListPrice>
+        <LivingArea unit="square metres">162.0</LivingArea>
+        <YearlyTax currency="BRL">700</YearlyTax>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>2</Bathrooms>
+        <Suites>1</Suites>
+        <Garage type="Parking Space">2</Garage>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SE">Sergipe</State>
+        <City>Aracaju</City>
+        <Neighborhood>Centro</Neighborhood>
+        <Address>R. Timóteo Calazans dos Santos - Farolândia, Aracaju - SE, 49031-030</Address>
+        <PostalCode>49031-030</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Arcos Imobiliária</Name>
+        <Email>contato@arcosimobiliaria.com.br</Email>
+        <Website>https://arcosimobiliaria.com.br</Website>
+        <Telephone>(79) 3214-5400</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>0710</ListingID>
+      <Title>Residencial Baía Formosa</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://arcosimobiliaria.com.br/imovel/residencial-baia-formosa-0710/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01" primary="true">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/baiaformosa-comlogo-22.jpg</Item>
+        <Item medium="image" caption="img02">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/baiaformosa-comlogo-21.jpg</Item>
+        <Item medium="image" caption="img03">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/baiaformosa-comlogo-20.jpg</Item>
+        <Item medium="image" caption="img04">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/baiaformosa-comlogo-19.jpg</Item>
+        <Item medium="image" caption="img05">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/baiaformosa-comlogo-18.jpg</Item>
+        <Item medium="image" caption="img06">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/baiaformosa-comlogo-17.jpg</Item>
+        <Item medium="image" caption="img07">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/baiaformosa-comlogo-16.jpg</Item>
+        <Item medium="image" caption="img08">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/baiaformosa-comlogo-15.jpg</Item>
+        <Item medium="image" caption="img09">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/baiaformosa-comlogo-14.jpg</Item>
+        <Item medium="image" caption="img10">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/baiaformosa-comlogo-13.jpg</Item>
+        <Item medium="image" caption="img11">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/baiaformosa-comlogo-12.jpg</Item>
+        <Item medium="image" caption="img12">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/baiaformosa-comlogo-11.jpg</Item>
+        <Item medium="image" caption="img13">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/baiaformosa-comlogo-10.jpg</Item>
+        <Item medium="image" caption="img14">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/baiaformosa-comlogo-9.jpg</Item>
+        <Item medium="image" caption="img15">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/baiaformosa-comlogo-8.jpg</Item>
+        <Item medium="image" caption="img16">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/baiaformosa-comlogo-7.jpg</Item>
+        <Item medium="image" caption="img17">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/baiaformosa-comlogo-6.jpg</Item>
+        <Item medium="image" caption="img18">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/baiaformosa-comlogo-5.jpg</Item>
+        <Item medium="image" caption="img19">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/baiaformosa-comlogo-4.jpg</Item>
+        <Item medium="image" caption="img20">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/baiaformosa-comlogo-3.jpg</Item>
+        <Item medium="image" caption="img21">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/baiaformosa-comlogo-2-1.jpg</Item>
+        <Item medium="image" caption="img22">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/baiaformosa-comlogo-1-1.jpg</Item>
+        <Item medium="image" caption="img23">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/baiaformosa-comlogo-2.jpg</Item>
+        <Item medium="image" caption="img24">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/baiaformosa-comlogo-1.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description>&lt;span style=&quot;font-weight: 400;&quot;&gt;Apartamento à venda na Farolândia, no Residencial Baía Formosa, localizado na Avenida Pastora, próximo à UNIT, GBarbosa, Avenida Beira Mar e ao Central Garden, em uma das regiões mais práticas e valorizadas da zona sul de Aracaju.&lt;/span&gt;
+
+&lt;span style=&quot;font-weight: 400;&quot;&gt;Com 70m², o imóvel possui 3 quartos, sendo 1 suíte, sala em L que amplia as possibilidades de ambientação, varanda, banheiro social, cozinha e área de serviço, oferecendo uma planta funcional e bem distribuída. Conta com 1 vaga de garagem e posição Norte/Oeste, favorecendo ventilação e iluminação natural. O condomínio dispõe de área de lazer com piscina e salão de festas, além de gás incluso na taxa condominial. Excelente opção para morar ou investir próximo à universidade.&lt;/span&gt;</Description>
+        <ListPrice currency="BRL">250000</ListPrice>
+        <LivingArea unit="square metres">70.0</LivingArea>
+        <PropertyAdministrationFee currency="BRL">600</PropertyAdministrationFee>
+        <YearlyTax currency="BRL">800</YearlyTax>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>2</Bathrooms>
+        <Suites>1</Suites>
+        <Garage type="Parking Space">1</Garage>
+        <Features>
+          <Feature>Balcony</Feature>
+          <Feature>Pool</Feature>
+          <Feature>Reception room</Feature>
+        </Features>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SE">Sergipe</State>
+        <City>Aracaju</City>
+        <Neighborhood>Centro</Neighborhood>
+        <Address>Av. Maria Pastora, 400 - Farolândia, Aracaju - SE, 49030-210</Address>
+        <PostalCode>49030-210</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Arcos Imobiliária</Name>
+        <Email>contato@arcosimobiliaria.com.br</Email>
+        <Website>https://arcosimobiliaria.com.br</Website>
+        <Telephone>(79) 3214-5400</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>0711</ListingID>
+      <Title>Casa no Marcos Freire II</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://arcosimobiliaria.com.br/imovel/casa-no-marcos-freire-0711/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01" primary="true">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/casanomarcosfreire-comlogo-21.jpg</Item>
+        <Item medium="image" caption="img02">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/casanomarcosfreire-comlogo-20.jpg</Item>
+        <Item medium="image" caption="img03">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/casanomarcosfreire-comlogo-19.jpg</Item>
+        <Item medium="image" caption="img04">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/casanomarcosfreire-comlogo-18.jpg</Item>
+        <Item medium="image" caption="img05">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/casanomarcosfreire-comlogo-17.jpg</Item>
+        <Item medium="image" caption="img06">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/casanomarcosfreire-comlogo-16.jpg</Item>
+        <Item medium="image" caption="img07">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/casanomarcosfreire-comlogo-15.jpg</Item>
+        <Item medium="image" caption="img08">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/casanomarcosfreire-comlogo-14.jpg</Item>
+        <Item medium="image" caption="img09">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/casanomarcosfreire-comlogo-13.jpg</Item>
+        <Item medium="image" caption="img10">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/casanomarcosfreire-comlogo-12.jpg</Item>
+        <Item medium="image" caption="img11">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/casanomarcosfreire-comlogo-11.jpg</Item>
+        <Item medium="image" caption="img12">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/casanomarcosfreire-comlogo-10.jpg</Item>
+        <Item medium="image" caption="img13">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/casanomarcosfreire-comlogo-9.jpg</Item>
+        <Item medium="image" caption="img14">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/casanomarcosfreire-comlogo-8.jpg</Item>
+        <Item medium="image" caption="img15">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/casanomarcosfreire-comlogo-7-1.jpg</Item>
+        <Item medium="image" caption="img16">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/casanomarcosfreire-comlogo-6.jpg</Item>
+        <Item medium="image" caption="img17">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/casanomarcosfreire-comlogo-5.jpg</Item>
+        <Item medium="image" caption="img18">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/casanomarcosfreire-comlogo-4.jpg</Item>
+        <Item medium="image" caption="img19">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/casanomarcosfreire-comlogo-3.jpg</Item>
+        <Item medium="image" caption="img20">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/casanomarcosfreire-comlogo-2.jpg</Item>
+        <Item medium="image" caption="img21">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/casanomarcosfreire-comlogo-1-1.jpg</Item>
+        <Item medium="image" caption="img22">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/casanomarcosfreire-comlogo-7.jpg</Item>
+        <Item medium="image" caption="img23">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/casanomarcosfreire-comlogo-1.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description>&lt;span style=&quot;font-weight: 400;&quot;&gt;Casa à venda no Marcos Freire, em Nossa Senhora do Socorro, localizada ao lado do Colégio Ceme, em região com fácil acesso a comércios, escolas e serviços essenciais do dia a dia.&lt;/span&gt;
+
+&lt;span style=&quot;font-weight: 400;&quot;&gt;Com 200m², o imóvel possui 2 quartos, sendo 1 suíte, sala, varanda, banheiro social, cozinha e área de serviço, oferecendo uma planta funcional e confortável. Conta com 2 vagas de garagem e posição Oeste. Boa opção para quem busca morar com praticidade, espaço e fácil acesso a tudo que precisa na região.&lt;/span&gt;</Description>
+        <ListPrice currency="BRL">265000</ListPrice>
+        <LivingArea unit="square metres">200.0</LivingArea>
+        <YearlyTax currency="BRL">127</YearlyTax>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>2</Bathrooms>
+        <Suites>1</Suites>
+        <Garage type="Parking Space">2</Garage>
+        <Features>
+          <Feature>Balcony</Feature>
+        </Features>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SE">Sergipe</State>
+        <City>Nossa Senhora do Socorro</City>
+        <Neighborhood>Marcos Freire II</Neighborhood>
+        <Address>Rua A13, Marcos Freire, CEP: 49152-610</Address>
+        <PostalCode>49152-610</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Arcos Imobiliária</Name>
+        <Email>contato@arcosimobiliaria.com.br</Email>
+        <Website>https://arcosimobiliaria.com.br</Website>
+        <Telephone>(79) 3214-5400</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>0736</ListingID>
+      <Title>Barra Mares</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://arcosimobiliaria.com.br/imovel/barra-mares-0736/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01" primary="true">https://arcosimobiliaria.com.br/wp-content/uploads/2026/04/barramares-comlogo-19.jpg</Item>
+        <Item medium="image" caption="img02">https://arcosimobiliaria.com.br/wp-content/uploads/2026/04/barramares-comlogo-18.jpg</Item>
+        <Item medium="image" caption="img03">https://arcosimobiliaria.com.br/wp-content/uploads/2026/04/barramares-comlogo-17.jpg</Item>
+        <Item medium="image" caption="img04">https://arcosimobiliaria.com.br/wp-content/uploads/2026/04/barramares-comlogo-16.jpg</Item>
+        <Item medium="image" caption="img05">https://arcosimobiliaria.com.br/wp-content/uploads/2026/04/barramares-comlogo-15.jpg</Item>
+        <Item medium="image" caption="img06">https://arcosimobiliaria.com.br/wp-content/uploads/2026/04/barramares-comlogo-14.jpg</Item>
+        <Item medium="image" caption="img07">https://arcosimobiliaria.com.br/wp-content/uploads/2026/04/barramares-comlogo-13.jpg</Item>
+        <Item medium="image" caption="img08">https://arcosimobiliaria.com.br/wp-content/uploads/2026/04/barramares-comlogo-12.jpg</Item>
+        <Item medium="image" caption="img09">https://arcosimobiliaria.com.br/wp-content/uploads/2026/04/barramares-comlogo-11.jpg</Item>
+        <Item medium="image" caption="img10">https://arcosimobiliaria.com.br/wp-content/uploads/2026/04/barramares-comlogo-10.jpg</Item>
+        <Item medium="image" caption="img11">https://arcosimobiliaria.com.br/wp-content/uploads/2026/04/barramares-comlogo-9.jpg</Item>
+        <Item medium="image" caption="img12">https://arcosimobiliaria.com.br/wp-content/uploads/2026/04/barramares-comlogo-8.jpg</Item>
+        <Item medium="image" caption="img13">https://arcosimobiliaria.com.br/wp-content/uploads/2026/04/barramares-comlogo-7.jpg</Item>
+        <Item medium="image" caption="img14">https://arcosimobiliaria.com.br/wp-content/uploads/2026/04/barramares-comlogo-6.jpg</Item>
+        <Item medium="image" caption="img15">https://arcosimobiliaria.com.br/wp-content/uploads/2026/04/barramares-comlogo-5.jpg</Item>
+        <Item medium="image" caption="img16">https://arcosimobiliaria.com.br/wp-content/uploads/2026/04/barramares-comlogo-4.jpg</Item>
+        <Item medium="image" caption="img17">https://arcosimobiliaria.com.br/wp-content/uploads/2026/04/barramares-comlogo-3.jpg</Item>
+        <Item medium="image" caption="img18">https://arcosimobiliaria.com.br/wp-content/uploads/2026/04/barramares-comlogo-2-1.jpg</Item>
+        <Item medium="image" caption="img19">https://arcosimobiliaria.com.br/wp-content/uploads/2026/04/barramares-comlogo-1-2.jpg</Item>
+        <Item medium="image" caption="img20">https://arcosimobiliaria.com.br/wp-content/uploads/2026/04/barramares-comlogo-1-1.jpg</Item>
+        <Item medium="image" caption="img21">https://arcosimobiliaria.com.br/wp-content/uploads/2026/04/barramares-comlogo-2.jpg</Item>
+        <Item medium="image" caption="img22">https://arcosimobiliaria.com.br/wp-content/uploads/2026/04/barramares-comlogo-1.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description>&lt;span style=&quot;font-weight: 400;&quot;&gt;Apartamento à venda no Barra Mares, na Coroa do Meio, localizado a apenas 200 metros da Orla, em uma das regiões mais valorizadas e desejadas de Aracaju, com fácil acesso a restaurantes, mercados e opções de lazer.&lt;/span&gt;
+
+&lt;span style=&quot;font-weight: 400;&quot;&gt;Com 102m² e tipologia original de 3 quartos, o imóvel possui sala ampliada, 1 suíte com closet, banheiro social, cozinha, área de serviço e quarto de serviço, oferecendo uma planta flexível que pode ser adaptada conforme a necessidade. Permanecem os móveis planejados no quarto e na cozinha. Conta com 1 vaga de garagem, posição Norte/Leste, garantindo boa ventilação e iluminação natural, e está localizado no primeiro andar com acesso por escada. O condomínio possui portaria digital e gás incluso na taxa condominial, além de permitir locação por temporada. Ideal para quem busca morar próximo à praia ou investir em imóvel com potencial para Airbnb.&lt;/span&gt;</Description>
+        <ListPrice currency="BRL">285000</ListPrice>
+        <LivingArea unit="square metres">102.0</LivingArea>
+        <PropertyAdministrationFee currency="BRL">550</PropertyAdministrationFee>
+        <YearlyTax currency="BRL">1320</YearlyTax>
+        <Bedrooms>1</Bedrooms>
+        <Bathrooms>2</Bathrooms>
+        <Suites>1</Suites>
+        <Garage type="Parking Space">1</Garage>
+        <Features>
+          <Feature>Maid's Quarters</Feature>
+          <Feature>TV Security</Feature>
+        </Features>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SE">Sergipe</State>
+        <City>Aracaju</City>
+        <Neighborhood>Centro</Neighborhood>
+        <Address>Av. Conselheiro João Moreira Filho, 2261 - Atalaia, Aracaju - SE, 49035-655</Address>
+        <PostalCode>49035-655</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Arcos Imobiliária</Name>
+        <Email>contato@arcosimobiliaria.com.br</Email>
+        <Website>https://arcosimobiliaria.com.br</Website>
+        <Telephone>(79) 3214-5400</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>0752</ListingID>
+      <Title>Residencial Caminho dos Ventos</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://arcosimobiliaria.com.br/imovel/residencial-caminho-dos-ventos-0752/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01" primary="true">https://arcosimobiliaria.com.br/wp-content/uploads/2026/05/caminhodosventos-comlogo-30-1.jpg</Item>
+        <Item medium="image" caption="img02">https://arcosimobiliaria.com.br/wp-content/uploads/2026/05/caminhodosventos-comlogo-29.jpg</Item>
+        <Item medium="image" caption="img03">https://arcosimobiliaria.com.br/wp-content/uploads/2026/05/caminhodosventos-comlogo-28.jpg</Item>
+        <Item medium="image" caption="img04">https://arcosimobiliaria.com.br/wp-content/uploads/2026/05/caminhodosventos-comlogo-27.jpg</Item>
+        <Item medium="image" caption="img05">https://arcosimobiliaria.com.br/wp-content/uploads/2026/05/caminhodosventos-comlogo-26.jpg</Item>
+        <Item medium="image" caption="img06">https://arcosimobiliaria.com.br/wp-content/uploads/2026/05/caminhodosventos-comlogo-25.jpg</Item>
+        <Item medium="image" caption="img07">https://arcosimobiliaria.com.br/wp-content/uploads/2026/05/caminhodosventos-comlogo-24.jpg</Item>
+        <Item medium="image" caption="img08">https://arcosimobiliaria.com.br/wp-content/uploads/2026/05/caminhodosventos-comlogo-23.jpg</Item>
+        <Item medium="image" caption="img09">https://arcosimobiliaria.com.br/wp-content/uploads/2026/05/caminhodosventos-comlogo-22.jpg</Item>
+        <Item medium="image" caption="img10">https://arcosimobiliaria.com.br/wp-content/uploads/2026/05/caminhodosventos-comlogo-21.jpg</Item>
+        <Item medium="image" caption="img11">https://arcosimobiliaria.com.br/wp-content/uploads/2026/05/caminhodosventos-comlogo-20.jpg</Item>
+        <Item medium="image" caption="img12">https://arcosimobiliaria.com.br/wp-content/uploads/2026/05/caminhodosventos-comlogo-19.jpg</Item>
+        <Item medium="image" caption="img13">https://arcosimobiliaria.com.br/wp-content/uploads/2026/05/caminhodosventos-comlogo-18.jpg</Item>
+        <Item medium="image" caption="img14">https://arcosimobiliaria.com.br/wp-content/uploads/2026/05/caminhodosventos-comlogo-17.jpg</Item>
+        <Item medium="image" caption="img15">https://arcosimobiliaria.com.br/wp-content/uploads/2026/05/caminhodosventos-comlogo-16.jpg</Item>
+        <Item medium="image" caption="img16">https://arcosimobiliaria.com.br/wp-content/uploads/2026/05/caminhodosventos-comlogo-15.jpg</Item>
+        <Item medium="image" caption="img17">https://arcosimobiliaria.com.br/wp-content/uploads/2026/05/caminhodosventos-comlogo-14.jpg</Item>
+        <Item medium="image" caption="img18">https://arcosimobiliaria.com.br/wp-content/uploads/2026/05/caminhodosventos-comlogo-13.jpg</Item>
+        <Item medium="image" caption="img19">https://arcosimobiliaria.com.br/wp-content/uploads/2026/05/caminhodosventos-comlogo-12.jpg</Item>
+        <Item medium="image" caption="img20">https://arcosimobiliaria.com.br/wp-content/uploads/2026/05/caminhodosventos-comlogo-11.jpg</Item>
+        <Item medium="image" caption="img21">https://arcosimobiliaria.com.br/wp-content/uploads/2026/05/caminhodosventos-comlogo-10.jpg</Item>
+        <Item medium="image" caption="img22">https://arcosimobiliaria.com.br/wp-content/uploads/2026/05/caminhodosventos-comlogo-9.jpg</Item>
+        <Item medium="image" caption="img23">https://arcosimobiliaria.com.br/wp-content/uploads/2026/05/caminhodosventos-comlogo-8.jpg</Item>
+        <Item medium="image" caption="img24">https://arcosimobiliaria.com.br/wp-content/uploads/2026/05/caminhodosventos-comlogo-7.jpg</Item>
+        <Item medium="image" caption="img25">https://arcosimobiliaria.com.br/wp-content/uploads/2026/05/caminhodosventos-comlogo-6.jpg</Item>
+        <Item medium="image" caption="img26">https://arcosimobiliaria.com.br/wp-content/uploads/2026/05/caminhodosventos-comlogo-5.jpg</Item>
+        <Item medium="image" caption="img27">https://arcosimobiliaria.com.br/wp-content/uploads/2026/05/caminhodosventos-comlogo-4.jpg</Item>
+        <Item medium="image" caption="img28">https://arcosimobiliaria.com.br/wp-content/uploads/2026/05/caminhodosventos-comlogo-3.jpg</Item>
+        <Item medium="image" caption="img29">https://arcosimobiliaria.com.br/wp-content/uploads/2026/05/caminhodosventos-comlogo-2.jpg</Item>
+        <Item medium="image" caption="img30">https://arcosimobiliaria.com.br/wp-content/uploads/2026/05/caminhodosventos-comlogo-1-1.jpg</Item>
+        <Item medium="image" caption="img31">https://arcosimobiliaria.com.br/wp-content/uploads/2026/05/caminhodosventos-comlogo-30.jpg</Item>
+        <Item medium="image" caption="img32">https://arcosimobiliaria.com.br/wp-content/uploads/2026/05/caminhodosventos-comlogo-1.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description>&lt;span style=&quot;font-weight: 400;&quot;&gt;Apartamento à venda na Aruana, no Residencial Caminho dos Ventos, localizado próximo ao Rocha Carne, em região em constante crescimento e valorização, com fácil acesso à praia, supermercados, academias e diversas conveniências da zona sul.&lt;/span&gt;
+
+&lt;span style=&quot;font-weight: 400;&quot;&gt;Com 68m², o imóvel possui 3 quartos, sendo 1 suíte, sala, varanda, banheiro social, cozinha e área de serviço, com planta funcional e bem distribuída. Permanecem os móveis planejados da cozinha e dos banheiros. Conta com 1 vaga de garagem e posição Sul, favorecendo ventilação natural e conforto térmico. O gás já está incluso na taxa condominial. O condomínio dispõe de área de lazer com piscina, academia, espaço gourmet, quadra esportiva, brinquedoteca e parque infantil. Ideal para quem busca conforto, praticidade e morar em uma região em expansão próxima à praia.&lt;/span&gt;</Description>
+        <ListPrice currency="BRL">295000</ListPrice>
+        <LivingArea unit="square metres">68.0</LivingArea>
+        <PropertyAdministrationFee currency="BRL">440</PropertyAdministrationFee>
+        <YearlyTax currency="BRL">1300</YearlyTax>
+        <Bedrooms>3</Bedrooms>
+        <Bathrooms>2</Bathrooms>
+        <Suites>1</Suites>
+        <Garage type="Parking Space">1</Garage>
+        <Features>
+          <Feature>BBQ</Feature>
+          <Feature>Balcony</Feature>
+          <Feature>Furnished</Feature>
+          <Feature>Game room</Feature>
+          <Feature>Gourmet Area</Feature>
+          <Feature>Gym</Feature>
+          <Feature>Playground</Feature>
+          <Feature>Pool</Feature>
+          <Feature>Reception room</Feature>
+        </Features>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SE">Sergipe</State>
+        <City>Aracaju</City>
+        <Neighborhood>Centro</Neighborhood>
+        <Address>R. Josepha Andrade Irmã Fontes, 90 - Aruana, Aracaju - SE, 49001-000</Address>
+        <PostalCode>49001-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Arcos Imobiliária</Name>
+        <Email>contato@arcosimobiliaria.com.br</Email>
+        <Website>https://arcosimobiliaria.com.br</Website>
+        <Telephone>(79) 3214-5400</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>A005L</ListingID>
+      <Title>Marbello Residence</Title>
+      <TransactionType>For Rent</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://arcosimobiliaria.com.br/imovel/marbello-residence-a005l/</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01" primary="true">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/marbello-comlogo-30.jpg</Item>
+        <Item medium="image" caption="img02">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/marbello-comlogo-29.jpg</Item>
+        <Item medium="image" caption="img03">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/marbello-comlogo-28.jpg</Item>
+        <Item medium="image" caption="img04">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/marbello-comlogo-27.jpg</Item>
+        <Item medium="image" caption="img05">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/marbello-comlogo-26.jpg</Item>
+        <Item medium="image" caption="img06">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/marbello-comlogo-25.jpg</Item>
+        <Item medium="image" caption="img07">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/marbello-comlogo-24.jpg</Item>
+        <Item medium="image" caption="img08">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/marbello-comlogo-23.jpg</Item>
+        <Item medium="image" caption="img09">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/marbello-comlogo-22.jpg</Item>
+        <Item medium="image" caption="img10">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/marbello-comlogo-21.jpg</Item>
+        <Item medium="image" caption="img11">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/marbello-comlogo-20.jpg</Item>
+        <Item medium="image" caption="img12">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/marbello-comlogo-19.jpg</Item>
+        <Item medium="image" caption="img13">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/marbello-comlogo-18.jpg</Item>
+        <Item medium="image" caption="img14">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/marbello-comlogo-17.jpg</Item>
+        <Item medium="image" caption="img15">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/marbello-comlogo-16.jpg</Item>
+        <Item medium="image" caption="img16">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/marbello-comlogo-15.jpg</Item>
+        <Item medium="image" caption="img17">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/marbello-comlogo-14.jpg</Item>
+        <Item medium="image" caption="img18">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/marbello-comlogo-13.jpg</Item>
+        <Item medium="image" caption="img19">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/marbello-comlogo-12.jpg</Item>
+        <Item medium="image" caption="img20">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/marbello-comlogo-11.jpg</Item>
+        <Item medium="image" caption="img21">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/marbello-comlogo-10.jpg</Item>
+        <Item medium="image" caption="img22">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/marbello-comlogo-9.jpg</Item>
+        <Item medium="image" caption="img23">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/marbello-comlogo-8.jpg</Item>
+        <Item medium="image" caption="img24">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/marbello-comlogo-7.jpg</Item>
+        <Item medium="image" caption="img25">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/marbello-comlogo-6.jpg</Item>
+        <Item medium="image" caption="img26">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/marbello-comlogo-5.jpg</Item>
+        <Item medium="image" caption="img27">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/marbello-comlogo-4-1.jpg</Item>
+        <Item medium="image" caption="img28">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/marbello-comlogo-3.jpg</Item>
+        <Item medium="image" caption="img29">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/marbello-comlogo-2.jpg</Item>
+        <Item medium="image" caption="img30">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/marbello-comlogo-1-1.jpg</Item>
+        <Item medium="image" caption="img31">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/marbello-comlogo-4.jpg</Item>
+        <Item medium="image" caption="img32">https://arcosimobiliaria.com.br/wp-content/uploads/2026/03/marbello-comlogo-1.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <Description>&lt;span style=&quot;font-weight: 400;&quot;&gt;Apartamento disponível para aluguel no Marbello Residence, na Coroa do Meio, em localização privilegiada próxima à Orla, com fácil acesso à praia, supermercados, restaurantes, academias e diversas opções de lazer e conveniência.&lt;/span&gt;
+
+&lt;span style=&quot;font-weight: 400;&quot;&gt;Com 59m², o imóvel possui 2 quartos, sendo 1 suíte, sala com varanda integrada e vista para o mar, banheiro social, cozinha e área de serviço, com planta funcional e bem distribuída. O apartamento é oferecido mobiliado, permanecendo todos os móveis, exceto itens de uso pessoal, pronto para morar. Conta com 1 vaga de garagem e posição Sul/Leste, garantindo boa ventilação e conforto térmico. O condomínio dispõe de lazer completo com piscina adulto e infantil, academia, salão de festas, espaço gourmet, brinquedoteca, playground, salão de jogos e quadra poliesportiva. Taxa condominial já inclusa no valor do aluguel. Ideal para quem busca praticidade, conforto e excelente localização próxima à Orla.&lt;/span&gt;</Description>
+        <RentalPrice currency="BRL" period="Monthly">5500</RentalPrice>
+        <LivingArea unit="square metres">59.0</LivingArea>
+        <YearlyTax currency="BRL">1400</YearlyTax>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>2</Bathrooms>
+        <Suites>1</Suites>
+        <Garage type="Parking Space">1</Garage>
+        <Features>
+          <Feature>BBQ</Feature>
+          <Feature>Balcony</Feature>
+          <Feature>Controlled Access</Feature>
+          <Feature>Cooling</Feature>
+          <Feature>Elevator</Feature>
+          <Feature>Game room</Feature>
+          <Feature>Gourmet Area</Feature>
+          <Feature>Gym</Feature>
+          <Feature>Kitchen</Feature>
+          <Feature>Ocean View</Feature>
+          <Feature>Playground</Feature>
+          <Feature>Pool</Feature>
+          <Feature>Reception room</Feature>
+          <Feature>Security Guard on Duty</Feature>
+          <Feature>Sports Court</Feature>
+        </Features>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SE">Sergipe</State>
+        <City>Aracaju</City>
+        <Neighborhood>Centro</Neighborhood>
+        <Address>Rua Antônio Andrade, 485 - Coroa do Meio, Aracaju - SE, 49035-050</Address>
+        <PostalCode>49035-050</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Arcos Imobiliária</Name>
+        <Email>contato@arcosimobiliaria.com.br</Email>
+        <Website>https://arcosimobiliaria.com.br</Website>
+        <Telephone>(79) 3214-5400</Telephone>
+      </ContactInfo>
+    </Listing>
+  </Listings>
 </ListingDataFeed>
